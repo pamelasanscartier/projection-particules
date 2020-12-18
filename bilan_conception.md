@@ -40,5 +40,10 @@ Voici un petit croquis *TRÈS* bien dessiné de ce qui se passe.
   - Il doit y a voir un menu de sélection de personnage qui change vraiment le personnage (et qui fait afficher le bon, qui sait)
   - Le système de booléen pour les A+ et les F doit être *parfait*, sinon rien ne va fonctionner pour les menus de fin
   - Faire en sorte que les projections visuelles et les sons se passent exactement au bon moment, comme dans le jeu, avec pas de délai et que ça joue les bons sons/vidéos.
+  - Se renseigner comme du monde sur comment lier Unity aux autres logiciels, car nous sommes un peu perdu sur ce sujet. Si nous n'avons pas assez de connaissances, ça va nous empêcher d'avancer adéquatement.
+  
+  Nous n'avons pas de gestionnaire des ressources humaines, mais on est bien *chummy* et on se considère tous sur le même pied d'égalité. On pense aussi qu'on mérite une petite récompense après de nombreuses heures de travail, comme un sac de Doritos. Ça fait plaisir. On est les meilleurs RH du coin. 
+  
+  
   
   
