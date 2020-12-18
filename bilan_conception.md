@@ -44,7 +44,9 @@ Voici un petit croquis *TRÈS* bien dessiné de ce qui se passe.
   
   Nous n'avons pas de gestionnaire des ressources humaines, mais on est bien *chummy* et on se considère tous sur le même pied d'égalité. On pense aussi qu'on mérite une petite récompense après de nombreuses heures de travail, comme un sac de Doritos. Ça fait plaisir. On est les meilleurs RH du coin. 
   
-  Merci à David, qui a fait ce petit organigramme pour nous aider à nous retrouver.
+  Merci à David, qui a fait ce petit organigramme pour nous aider à nous retrouver dans la programmation du système booléen pour déterminer le menu de fin qui va s'afficher.
+  Un autre petit résumé, juste pour être certain qu'on comprend bien :
+  *Le jeu a un système de points, en arrivant à 3 points, la partie est gagnée. Pour cela, on a besoin de ramasser des A+. Par contre, si le joueur touche un obstacle, il perdra un point. Par exemple, quand on touche « Netflix », on perd un A+. De plus, il aura un autre système de points, cette fois-ci quand on accumulera 3 F, la partie sera perdue!*
   ![alt text](https://github.com/pamelasanscartier/school_run/blob/master/organigramme_prog.png "Organigramme")
   
   
