@@ -35,4 +35,10 @@ Voici un petit croquis *TRÈS* bien dessiné de ce qui se passe.
  
  Nous allons avoir besoin de projecteurs, de haut-parleurs de de lumières que nous allons installer au plafond pour bien englober la pièce. Nous allons également avoir besoin d'un ordinateur (les configurations minimum requises seront ultérieurement testés et mises ici) et d'une classe vide. Pour les logiciels, nous avons utilisé Unity (parce que c'est un jeu et que faire un jeu avec Unity, c'est bien) et de Maya pour modéliser les obstacles et les bonus. Nous aurons éventuellement besoin de peut-être MapMapper pour les projections visuelles et d'OSC pour les lumières. Le son venant directement d'Unity va être celui entendu par l'utilisateur.
   
+  Il va y avoir beaucoup de choses à bien coder pour assurer le bon fonctionnement du projet. Voici une liste de ce que nous allons devoir tester :
+  - Le jeu doit être jouable en ligne pour plusieurs personnes en même temps
+  - Il doit y a voir un menu de sélection de personnage qui change vraiment le personnage (et qui fait afficher le bon, qui sait)
+  - Le système de booléen pour les A+ et les F doit être *parfait*, sinon rien ne va fonctionner pour les menus de fin
+  - Faire en sorte que les projections visuelles et les sons se passent exactement au bon moment, comme dans le jeu, avec pas de délai et que ça joue les bons sons/vidéos.
+  
   
