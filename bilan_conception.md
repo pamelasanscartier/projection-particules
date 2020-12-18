@@ -44,6 +44,8 @@ Voici un petit croquis *TRÈS* bien dessiné de ce qui se passe.
   
   Nous n'avons pas de gestionnaire des ressources humaines, mais on est bien *chummy* et on se considère tous sur le même pied d'égalité. On pense aussi qu'on mérite une petite récompense après de nombreuses heures de travail, comme un sac de Doritos. Ça fait plaisir. On est les meilleurs RH du coin. 
   
+  Merci à David, qui a fait ce petit organigramme pour nous aider à nous retrouver.
+  ![alt text](https://github.com/pamelasanscartier/school_run/blob/master/organigramme_prog.png "Organigramme")
   
   
   
