@@ -48,6 +48,9 @@ Voici un petit croquis *TRÈS* bien dessiné de ce qui se passe.
   Un autre petit résumé, juste pour être certain qu'on comprend bien :
   *Le jeu a un système de points, en arrivant à 3 points, la partie est gagnée. Pour cela, on a besoin de ramasser des A+. Par contre, si le joueur touche un obstacle, il perdra un point. Par exemple, quand on touche « Netflix », on perd un A+. De plus, il aura un autre système de points, cette fois-ci quand on accumulera 3 F, la partie sera perdue!*
   ![alt text](https://github.com/pamelasanscartier/school_run/blob/master/organigramme_prog.png "Organigramme")
+  Le langage de programmation que nous allons en majorité utiliser est notre ami C++. Nous allons laisser le plus de commentaires possibles afin de bien se comprendre l'un l'autre, vu que nous avons tous des manières de coder différentes.
+  
+  Les fichiers nécessaires seront sur GitHub, afin de tout avoir au même endroit. Pamela va venir faire son tour une fois de temps en temps pour s'assurer que c'est pas un fouilli total et qu'on se retrouve facilement.
   
   
   
