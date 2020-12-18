@@ -52,5 +52,13 @@ Voici un petit croquis *TRÈS* bien dessiné de ce qui se passe.
   
   Les fichiers nécessaires seront sur GitHub, afin de tout avoir au même endroit. Pamela va venir faire son tour une fois de temps en temps pour s'assurer que c'est pas un fouilli total et qu'on se retrouve facilement.
   
+  Voici notre échéancier de production, que nous nous battons corps et âme afin de respecter : 
+  - **29 janvier** : Les bonus et les obstacles doivent être à 100% terminés
+  - **5 février** : Avoir fait le menu de sélection de personnage
+  - **12 février** : Le système booléen doit être parfaitement fonctionnel
+  - **19 février** : Avoir terminé la partie jeu et avoir validé le design Web
+  - **5 mars** : Avoir commencé l'intégration sur le site Web et la programmation des lumières et faire les vidéos.
+  - **16 mars** : Tout doit être PARFAIT
+  - **22 mars** : Les présentations commencent !
   
   
