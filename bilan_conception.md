@@ -1,7 +1,7 @@
 # Bilan 
 ## Membres de l'équipe : Pamela, Jan Carlos et David
 
-  Au départ, le projet n'avait aucun lien avec celui d'en ce moment. C'était une projection de particules interactivesen lien avec les mouvements des personnes présentes devant la kinect. Toutefois, maintenant, notre projet est bien plus amusant et nous représente mieux. Voici un petit résumé :
+  Au départ, le projet n'avait aucun lien avec celui d'en ce moment. C'était une projection de particules interactivesen lien avec les mouvements des personnes présentes devant la kinect. Toutefois, nous n'étions pas du tout motivés à faire ce projet, alors qu'en ce moment, nous ne pouvons arrêter de trouver des nouvelles idées. Maintenant, notre projet est bien plus amusant et nous représente mieux. Voici un petit résumé :
   
 *School run est petit jeu sur le thème des
 études. Il montre comment, en ce moment de pandémie, les études peuvent être très stressantes
@@ -52,7 +52,7 @@ Voici un petit croquis *TRÈS* bien dessiné de ce qui se passe.
   
   Les fichiers nécessaires seront sur GitHub, afin de tout avoir au même endroit. Pamela va venir faire son tour une fois de temps en temps pour s'assurer que c'est pas un fouilli total et qu'on se retrouve facilement.
   
-  Voici notre échéancier de production, que nous nous battons corps et âme afin de respecter : 
+  Après avoir regardé maintes et maintes fois les choses à faire pour la session prochaine, nous avons établi un échéancier. Nous allons faire de notre mieux pour le respecter, malgré les distractions courantes. La plupart des dates importantes sont espacées d'une semaine. Durant ces semaines, nous allons avoir des rencontres d'équipe au moins deux fois afin de se forcer à vraiment avancer. Voici notre échéancier de production, que nous nous battons corps et âme afin de respecter : 
   - **20 novembre** : Avoir déterminé les sons et les effets de particules désirés
   - **27 novembre** : Avoir modéliser les bonus et obstacles et choisi le décor et le personnage de base
   - **4 décembre** : Avoir coder le player, les obstacles et les bonus
@@ -65,4 +65,10 @@ Voici un petit croquis *TRÈS* bien dessiné de ce qui se passe.
   - **16 mars** : Tout doit être PARFAIT
   - **22 mars** : Les présentations commencent !
   
+  Nous nous sommes assurés avec les professeurs d'avoir les équipements de disponibles pour notre présentation. Nous aurons toutefois encore besoin d'eux pour nous aider à monter la classe comme il faut. Jan Carlos et David risquent de manipuler le matériel à mettre au plafond, car Pamela est très gaffeuse et n'a pas les moyens de rembourser le collège si elle brise de quoi. Le samedi et le dimanche avant le début des présentations (donc le  20 et 21 mars), nous irions au collège afin de tout placer et de faire les tests de dernière minute pour s'assurer que tout fonctionne comme il se doit. 
   
+  La partie interactive n'était pas prévue à l'agenda au début. Il n'allait y avoir que le jeu sur le site Web. Toutefois, durant la présentation du prototype 3, Daryl a amené l'idée de tout mettre dans une pièce et de faire des liens en parallèles. Nous avons adoré l'idée et depuis ce temps, nous avons travaillé à la modification du scénario pour en arriver ici.
+  
+  Nous allons voir si nous allons ajouter des obstacles (distractions), car en ce merveilleux temps de pandémie, nous en avons beaucoup, ce qui devrait pouvoir se refléter dans le jeu. Pour l'instant, nous sommes vraiment enjoués à l'idée de continuer et on espère que le résultat sera à la hauteur de nos attentes et qu'il plaira à tous !
+  
+  Restez à l'affût pour des nouvelles sur *School Run* !
