@@ -53,6 +53,10 @@ Voici un petit croquis *TRÈS* bien dessiné de ce qui se passe.
   Les fichiers nécessaires seront sur GitHub, afin de tout avoir au même endroit. Pamela va venir faire son tour une fois de temps en temps pour s'assurer que c'est pas un fouilli total et qu'on se retrouve facilement.
   
   Voici notre échéancier de production, que nous nous battons corps et âme afin de respecter : 
+  - **20 novembre** : Avoir déterminé les sons et les effets de particules désirés
+  - **27 novembre** : Avoir modéliser les bonus et obstacles et choisi le décor et le personnage de base
+  - **4 décembre** : Avoir coder le player, les obstacles et les bonus
+  - **11 décembre** : Présentation du prototype 3
   - **29 janvier** : Les bonus et les obstacles doivent être à 100% terminés
   - **5 février** : Avoir fait le menu de sélection de personnage
   - **12 février** : Le système booléen doit être parfaitement fonctionnel
