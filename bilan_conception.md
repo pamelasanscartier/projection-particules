@@ -29,7 +29,10 @@ Voici un petit croquis *TRÈS* bien dessiné de ce qui se passe.
   - Rendre le décor moins répétitif
   - Choisir les logiciels qu'on va utiliser pour l'expérience interactive
   - Faire les liens entre ces logiciels et Unity afin de contrôler le réel grâce au jeu
+  - Faire un plan de la classe pour savoir comment tout placer les éléments.
   
+ Pour l'instant, nous n'avons pas fait d'inventaire de médias, car nous ne sommes pas certains de garder le sons que nous avons en ce moment. Il y a des chances que nous les créons nous-même si nous avons le temps. Le reste de ce qu'on utilise est dans nos bibliothèques d'Assets sur Unity, comme nos particules, nos textures et nos personnages.
  
+ Nous allons avoir besoin de projecteurs, de haut-parleurs de de lumières que nous allons installer au plafond pour bien englober la pièce. Nous allons également avoir besoin d'un ordinateur (les configurations minimum requises seront ultérieurement testés et mises ici) et d'une classe vide. Pour les logiciels, nous avons utilisé Unity (parce que c'est un jeu et que faire un jeu avec Unity, c'est bien) et de Maya pour modéliser les obstacles et les bonus. Nous aurons éventuellement besoin de peut-être MapMapper pour les projections visuelles et d'OSC pour les lumières. Le son venant directement d'Unity va être celui entendu par l'utilisateur.
   
   
