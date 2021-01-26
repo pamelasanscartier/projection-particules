@@ -11,18 +11,21 @@
 
 ---
 ## Semaine 0 (25 au 29 janvier)
+- Usage de Git.
+- Ajouter le dossier docs au GitHub de notre projet.
+- Usage de la gestion de projet.
+- Entrer des éléments dans la production sur GitHub.
+- Entrer éléments dans notre journal personnel.
 
 ### Résumé des réalisations effectuées
-- Vivamus lacinia tincidunt dui, non auctor justo. 
-- Fusce euismod ornare dolor. 
-- Vestibulum euismod, nulla eu blandit mollis, erat diam convallis lorem, consectetur rhoncus libero sapien in enim. 
-- Praesent viverra tristique malesuada. 
-- Mauris ex ligula, eleifend sed tellus ac, elementum blandit nunc. 
-- Phasellus blandit elit eu nibh blandit molestie. 
-- Nulla facilisi. Praesent vitae quam fermentum leo viverra ultrices eget nec massa. 
+- Usage de Git.
+- Ajouter le dossier docs au GitHub de notre projet.
+- Usage de la gestion de projet.
+- Entrer des éléments dans la production sur GitHub.
+- Entrer éléments dans notre journal personnel. 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/motionCapture.jpg)
+![ici est une description de l'image](medias/git.jpg)
 ou
 ![ici est une description de l'image](medias/console.jpg)
 ou
@@ -35,10 +38,10 @@ ou
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Phasellus placerat malesuada dictum. Sed dapibus sem vulputate, blandit ligula non, hendrerit dolor. Vivamus congue sit amet nulla nec tristique. Fusce eget nisi justo. 
+parceque il y a des chose que je comprends bien sur GitHub et d'autres pas completement.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis congue quis. Integer nec lobortis nisl, sit amet lacinia justo. Sed porta magna at nunc semper, quis vestibulum elit fermentum.
+Connaitre plus GitHub.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
