@@ -13,10 +13,10 @@
 ## Semaine 0 (25 au 29 janvier)
 
 ### Résumé des réalisations effectuées
-- Vivamus lacinia tincidunt dui, non auctor justo. 
-- Fusce euismod ornare dolor. 
-- Vestibulum euismod, nulla eu blandit mollis, erat diam convallis lorem, consectetur rhoncus libero sapien in enim. 
-- Praesent viverra tristique malesuada. 
+- Code pour le mouvement du personnage
+- Code pour les sauts du personnage
+- Code pour les effets de particules
+- Code pour les effets de son.
 - Mauris ex ligula, eleifend sed tellus ac, elementum blandit nunc. 
 - Phasellus blandit elit eu nibh blandit molestie. 
 - Nulla facilisi. Praesent vitae quam fermentum leo viverra ultrices eget nec massa. 
