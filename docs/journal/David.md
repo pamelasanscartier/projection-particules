@@ -13,7 +13,7 @@
 ## Semaine 0 (25 au 29 janvier)
 
 ### Résumé des réalisations effectuées
-- Vivamus lacinia tincidunt dui, non auctor justo. 
+- Modifié une ligne du journal.
 - Fusce euismod ornare dolor. 
 - Vestibulum euismod, nulla eu blandit mollis, erat diam convallis lorem, consectetur rhoncus libero sapien in enim. 
 - Praesent viverra tristique malesuada. 
