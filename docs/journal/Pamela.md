@@ -15,8 +15,8 @@
 ### Résumé des réalisations effectuées
 - Retour sur l'usage de Git et explications à Jan Carlos et David de la marche à suivre.
 - Adapter le projet de la session passée à la préproduction de celle-ci.
-- Créer des milestones
-- Créer un projet Kanban
+- Mettre à jour le Kanban
+- Mettre à jour le journal
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![ici est une description de l'image](medias/code.png)
