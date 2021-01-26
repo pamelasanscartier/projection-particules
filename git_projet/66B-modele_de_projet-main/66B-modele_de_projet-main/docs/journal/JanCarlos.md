@@ -11,11 +11,7 @@
 
 ---
 ## Semaine 0 (25 au 29 janvier)
-- Usage de Git.
-- Ajouter le dossier docs au GitHub de notre projet.
-- Usage de la gestion de projet.
-- Entrer des éléments dans la production sur GitHub.
-- Entrer éléments dans notre journal personnel.
+
 
 ### Résumé des réalisations effectuées
 - Usage de Git.
