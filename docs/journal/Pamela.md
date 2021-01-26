@@ -13,20 +13,14 @@
 ## Semaine 0 (25 au 29 janvier)
 
 ### Résumé des réalisations effectuées
-- Code pour le mouvement du personnage
-- Code pour les sauts du personnage
-- Code pour les effets de particules
-- Code pour les effets de son.
-- Mauris ex ligula, eleifend sed tellus ac, elementum blandit nunc. 
-- Phasellus blandit elit eu nibh blandit molestie. 
-- Nulla facilisi. Praesent vitae quam fermentum leo viverra ultrices eget nec massa. 
+- Retour sur l'usage de Git et explications à Jan Carlos et David de la marche à suivre.
+- Adapter le projet de la session passée à la préproduction de celle-ci.
+- Créer des milestones
+- Créer un projet Kanban
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/motionCapture.jpg)
-ou
-![ici est une description de l'image](medias/console.jpg)
-ou
-![ici est une description de l'image](medias/photoshop.jpg)
+![ici est une description de l'image](medias/code.png)
+Pourquoi ? Parce que j'ai compris comment utiliser le terminal.
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [ ] Complètement
