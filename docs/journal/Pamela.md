@@ -14,41 +14,46 @@
 
 ### Résumé des réalisations effectuées
 - Retour sur l'usage de Git et explications à Jan Carlos et David de la marche à suivre.
-- Adapter le projet de la session passée à la préproduction de celle-ci.
-- Mettre à jour le Kanban
-- Mettre à jour le journal
+- Créer les issues
+- Assigner les tâches dans le Kanban
+- Mettre à jour le journal pour la semaine 0
+- Faire la liste des tâches des membres de l'équipe
+- Déterminer les rôles des membres de l'équipe
+- Déterminer les moments de rencontres d'équipe
+- Organiser l'échéancier global
+
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/code.png)
+![Utilisation de git par le terminal de VS Code](medias/code.png)
 Pourquoi ? Parce que j'ai compris comment utiliser le terminal.
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
-- [x] Peu
+- [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Phasellus placerat malesuada dictum. Sed dapibus sem vulputate, blandit ligula non, hendrerit dolor. Vivamus congue sit amet nulla nec tristique. Fusce eget nisi justo. 
+Je me suis fait un horaire très détaillé du mardi 26 janvier jusqu'au vendredi 29 janvier. À chaque jour, j'avais des tâches précises à faire et je me suis arrangée pour les faire, peu importe ce qui arrivait.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis congue quis. Integer nec lobortis nisl, sit amet lacinia justo. Sed porta magna at nunc semper, quis vestibulum elit fermentum.
+Pour cette semaine, cette section ne s'applique pas.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
-- [x] Assez
+- [x] Complètement
+- [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-Mauris nec ante egestas, vulputate dolor a, suscipit nulla. Phasellus vitae nisl pharetra, dapibus purus quis, porttitor velit. Vestibulum nec mauris est.
+J'ai bien respecté l'échéancier que j'avais établi le 26 janvier.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec porttitor at metus id viverra.
+Pour cette semaine, cette section ne s'applique pas.
 
 ### Défis pour la prochaine semaine
-Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id viverra odio efficitur sit amet. Nullam sed elit orci. Maecenas fringilla libero nec augue vehicula blandit. Vestibulum laoreet finibus sagittis. Maecenas volutpat dui id mi tincidunt rhoncus. Phasellus placerat malesuada dictum.
+Je vais devoir faire beaucoup de recherche sur comment faire en sorte que notre expérience virtuelle ait une influence sur le monde réel. J'ai de la difficulté à comprendre comment nous allons bien chronométrer les deux aspects.
 
 ---
 ## Semaine 1 (30 janvier au 5 février)
