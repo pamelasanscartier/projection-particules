@@ -25,6 +25,7 @@
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![Utilisation de git par le terminal de VS Code](medias/code.PNG)
+
 Pourquoi ? Parce que j'ai compris comment utiliser le terminal.
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
@@ -53,7 +54,8 @@ J'ai bien respecté l'échéancier que j'avais établi le 26 janvier.
 Pour cette semaine, cette section ne s'applique pas.
 
 ### Défis pour la prochaine semaine
-Je vais devoir faire beaucoup de recherche sur comment faire en sorte que notre expérience virtuelle ait une influence sur le monde réel. J'ai de la difficulté à comprendre comment nous allons bien chronométrer les deux aspects.
+- Déterminer comment faire le lien entre la partie virtuelle et la partie réelle de notre expérience.
+- S'assurer que chaque membre de l'équipe respecte l'échéancier.
 
 ---
 ## Semaine 1 (30 janvier au 5 février)
