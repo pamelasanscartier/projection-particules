@@ -23,7 +23,7 @@
     - [Budget prévisionnel](#Budget-prévisionnel)
     - [Échéancier global](#Échéancier-global)
     - [Liste des tâches à réaliser](#Liste-des-tâches-à-réaliser)
-    - [Rôles et responsabilités des membres de l'équipe](#Rôles-et-responsabilités-des-membres-de-l'équipe))
+    - [Rôles et responsabilités des membres de l'équipe](#Rôles-et-responsabilités-des-membres-de-l'équipe)
     - [Moments des rencontres d'équipe](#Moments-des-rencontres-d'équipe)
 
 # Intention ou concept
@@ -173,36 +173,38 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues
 ## Rôles et responsabilités des membres de l'équipe
 > Il vous est proposé ici de nommer une personne à la coordination générale du projet, à la coordination technique, à la coordination de la diffusion et à la coordination artistique. Les grandes décisions sur les grandes orientations du projet devraient se prendre en groupe lors des rencontres d'équipe quotidiennes et hebdomadaires. Cependant, les décisions entre vos rencontres de groupe devraient appartenir à ces personnes.
 
-**Étudiant E**
+**Pamela**
 - Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
-- Création du module d'interprétation des données;
-- Programmation du module Max de contrôle vidéo.
+- Création du plan de l'installation physique;
+- Installation de l'équipement dans l'espace physique.
 
 Liste des tâches dans Git Hub:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
 
-**Étudiant D**
+**Jan Carlos**
 - Comité Technique et coordination technique (suivi du devis technique);
-- Création des paysages sonores sonores;
+- Création des paysages sonores;
 - Programmation du module Max d'effet et de contrôle audio;
-- Installation de l'équipement dans l'espace physique.
+- Programmation du module Max de contrôle vidéo.
+- Programmation pour afficher les éléments visuels du jeu dans l'espace physique.
 
 Liste des tâches dans Git Hub:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
 
-**Étudiant C**
+**David**
 - Comité Diffusion et coordination de la diffusion (mise en ligne du Site Web, organisation de la plateforme et de l'événement de diffusion);
 - Installation et mise en place de la capture audiovidéo du projet en temps réel;
 - Programmation du module de captation des données;
-- Programmation du module de diffusion et d'interaction en ligne (page Web, diffusion vidéo dans Twitch via OBS, interface utilisateur dans Open Stage Control).
+- Programmation du module de diffusion et d'interaction en ligne (page Web, diffusion vidéo dans Twitch via OBS, interface utilisateur dans Open Stage Control)
+- Modélisation des éléments 3D;
 
 Liste des tâches dans Git Hub:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
 
-**Étudiant B**
+**Jan Carlos**
 - Coordination artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe);
 - Création des textes poétiques;
 - Création des vidéos d'animation 2D;
@@ -212,8 +214,7 @@ Liste des tâches dans Git Hub:
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
 
-**Étudiant A**
-- Création des images;
+**David**
 - Création des icônes de navigation;
 - Programmation du module Max d'éclairage;
 - Programmation du module Max de contrôle de la navigation utilisateur & des différents sous-modules.
@@ -227,13 +228,13 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues?q=is%3Aopen+is%3A
 
 ## Moments des rencontres d'équipe
 Quotidien
-- **Chaque jour 9h00 (30min max)**: Rencontre statutaire d'équipe pour régler les urgences
+- **Chaque jour 8h30 (30min max)**: Rencontre statutaire d'équipe pour régler les urgences et pour mettre au clair ce que chaque personne doit faire pendant la journée.
 
 Hebdomadaire
-- **Mardi "x"h (environ 1h)** : Rencontre d'équipe avec professeur
+- **Mardi 11h00 (environ 1h)** : Rencontre d'équipe avec professeur
 - **Vendredi 9h50 (environ 2h)** : Rencontre générale de classe
 - **Vendredi 13h (environ 2h)** : Rencontre de mise à jour d'équipe (Journal Web, suivis, mise à jour de l'échéancier, partage des tâches et autres)
 
 Autre: 
-- **Jeudi 10h (environ 1h30)** : Comité Diffusion
-- **Jeudi 14h (environ 1h30)** : Comité Technique
+- **Jeudi 10h (environ 1h30)** : Comité Diffusion (David)
+- **Jeudi 14h (environ 1h30)** : Comité Technique (Jan)
