@@ -30,7 +30,7 @@
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-parceque il y a des chose que je comprends bien sur GitHub et d'autres pas completement.
+Parceque il y a des chose que je comprends bien sur GitHub et d'autres pas completement.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 Connaitre plus GitHub.
@@ -43,10 +43,10 @@ Connaitre plus GitHub.
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-Mauris nec ante egestas, vulputate dolor a, suscipit nulla. Phasellus vitae nisl pharetra, dapibus purus quis, porttitor velit. Vestibulum nec mauris est.
+Pour le moment, les tâches qu'on se donne nous l'aise comprendre que notre projet est réalisé selon l'échéance prévu.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec porttitor at metus id viverra.
+Rencontre avec l'équipe et nous mettre à jours pour trouver des solution pour remédier la situation.
 
 ### Défis pour la prochaine semaine
 Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id viverra odio efficitur sit amet. Nullam sed elit orci. Maecenas fringilla libero nec augue vehicula blandit. Vestibulum laoreet finibus sagittis. Maecenas volutpat dui id mi tincidunt rhoncus. Phasellus placerat malesuada dictum.
