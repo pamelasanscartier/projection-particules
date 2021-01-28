@@ -49,7 +49,8 @@ Pour le moment, les tâches qu'on se donne nous l'aise comprendre que notre proj
 Rencontre avec l'équipe et nous mettre à jours pour trouver des solution pour remédier la situation.
 
 ### Défis pour la prochaine semaine
-Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id viverra odio efficitur sit amet. Nullam sed elit orci. Maecenas fringilla libero nec augue vehicula blandit. Vestibulum laoreet finibus sagittis. Maecenas volutpat dui id mi tincidunt rhoncus. Phasellus placerat malesuada dictum.
+- Terminer les panification technique (devis technique) Schémas ou plans techniques.
+- Respecter l'échéancier.
 
 ---
 ## Semaine 1 (30 janvier au 5 février)
