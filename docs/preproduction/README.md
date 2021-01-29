@@ -155,20 +155,20 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 
 ## Échéancier global
-Étapes importantes du projet visualisé dans GitHub (*milestones*):  
-https://github.com/tim-montmorency/66B-modele_de_projet/milestones
+Étapes importantes du projet visualisées dans GitHub (*milestones*):  
+https://github.com/pamelasanscartier/school_run/milestones
 
 *Dates importantes de diffusion :*
-- Pratique générale : 19 mars (toute la journée)
+- Pratique générale : vendredi 19 mars (toute la journée)
 - Début de la diffusion : lundi 22 mars
 - Présentation des projets devant public : jeudi 25 mars (soir)
 
 ## Liste des tâches à réaliser
 Visualisation des tâches à réaliser dans GitHub selon la méthode Kanban:  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?add_cards_query=is%3Aopen
+https://github.com/pamelasanscartier/school_run/projects/1
 
 Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues
+https://github.com/pamelasanscartier/school_run/issues
 
 ## Rôles et responsabilités des membres de l'équipe
 > Il vous est proposé ici de nommer une personne à la coordination générale du projet, à la coordination technique, à la coordination de la diffusion et à la coordination artistique. Les grandes décisions sur les grandes orientations du projet devraient se prendre en groupe lors des rencontres d'équipe quotidiennes et hebdomadaires. Cependant, les décisions entre vos rencontres de groupe devraient appartenir à ces personnes.
