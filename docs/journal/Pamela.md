@@ -55,6 +55,8 @@ Pour cette semaine, cette section ne s'applique pas.
 
 ### Défis pour la prochaine semaine
 - Déterminer comment faire le lien entre la partie virtuelle et la partie réelle de notre expérience.
+- S'assurer qu'il y ai une bonne cohésion entre toutes les parties de la préproduction.
+- Vérifier que l'entièreté des éléments nécessaires sont présent et assez bien expliqués pour qu'en cas de problème, on trouve facilement nos solutions.
 - S'assurer que chaque membre de l'équipe respecte l'échéancier.
 
 ---
