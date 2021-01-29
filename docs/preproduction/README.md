@@ -233,8 +233,8 @@ Quotidien
 Hebdomadaire
 - **Mardi 11h00 (environ 1h)** : Rencontre d'équipe avec professeur
 - **Vendredi 9h50 (environ 2h)** : Rencontre générale de classe
-- **Vendredi 13h (environ 2h)** : Rencontre de mise à jour d'équipe (Journal Web, suivis, mise à jour de l'échéancier, partage des tâches et autres)
+- **Vendredi 13h00 (environ 2h)** : Rencontre de mise à jour d'équipe (Journal Web, suivis, mise à jour de l'échéancier, partage des tâches et autres)
 
 Autre: 
-- **Jeudi 10h (environ 1h30)** : Comité Diffusion (David)
-- **Jeudi 14h (environ 1h30)** : Comité Technique (Jan)
+- **Jeudi 10h00 (environ 1h30)** : Comité Diffusion (David)
+- **Jeudi 14h00 (environ 1h30)** : Comité Technique (Jan)
