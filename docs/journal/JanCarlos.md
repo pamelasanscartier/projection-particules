@@ -11,11 +11,7 @@
 
 ---
 ## Semaine 0 (25 au 29 janvier)
-- Usage de Git.
-- Ajouter le dossier docs au GitHub de notre projet.
-- Usage de la gestion de projet.
-- Entrer des éléments dans la production sur GitHub.
-- Entrer éléments dans notre journal personnel.
+
 
 ### Résumé des réalisations effectuées
 - Usage de Git.
@@ -25,11 +21,7 @@
 - Entrer éléments dans notre journal personnel. 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/git.jpg)
-ou
-![ici est une description de l'image](medias/console.jpg)
-ou
-![ici est une description de l'image](medias/photoshop.jpg)
+![ici est une description de l'image](medias/Git.JPG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [ ] Complètement
@@ -38,7 +30,7 @@ ou
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-parceque il y a des chose que je comprends bien sur GitHub et d'autres pas completement.
+Parceque il y a des chose que je comprends bien sur GitHub et d'autres pas completement.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 Connaitre plus GitHub.
@@ -51,13 +43,14 @@ Connaitre plus GitHub.
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-Mauris nec ante egestas, vulputate dolor a, suscipit nulla. Phasellus vitae nisl pharetra, dapibus purus quis, porttitor velit. Vestibulum nec mauris est.
+Pour le moment, les tâches qu'on se donne nous l'aise comprendre que notre projet est réalisé selon l'échéance prévu.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec porttitor at metus id viverra.
+Rencontre avec l'équipe et nous mettre à jours pour trouver des solution pour remédier la situation.
 
 ### Défis pour la prochaine semaine
-Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id viverra odio efficitur sit amet. Nullam sed elit orci. Maecenas fringilla libero nec augue vehicula blandit. Vestibulum laoreet finibus sagittis. Maecenas volutpat dui id mi tincidunt rhoncus. Phasellus placerat malesuada dictum.
+- Terminer les panification technique (devis technique) Schémas ou plans techniques.
+- Respecter l'échéancier.
 
 ---
 ## Semaine 1 (30 janvier au 5 février)
