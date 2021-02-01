@@ -86,14 +86,17 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 * Audio
     * 4 haut-parleurs"
     * 4 fils XLR 3 conducteurs de 15' (M->F)
-    * Interface audio USB disposant 4 sorties 
+    * Interface audio USB disposant 4 sorties
+    * 1 fil mini jack 
+    * 4 fils jack
 
 * Vidéo
     * 3 projecteurs vidéo lentille standard
     * 3 système d'acrochage
+    * camera
 
 * Électricité
-    * 8 cordon IEC (pour l'alimentation des haut-parleurs)
+    * 4 cordon IEC (pour l'alimentation des haut-parleurs)
     * 2 extentions 3 fiches et 3 conducteurs 
     * 2 multiprise
 
