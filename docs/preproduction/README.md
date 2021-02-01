@@ -92,12 +92,6 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * 3 projecteurs vidéo lentille standard
     * 3 système d'acrochage
 
-* Lumière
-    * 4 lumière LED RGBAW DMX
-    * 4 fils XLR 3 conducteurs de 20'
-    * Console DMX
-    * Interface DMX USB
-
 * Électricité
     * 8 cordon IEC (pour l'alimentation des haut-parleurs)
     * 2 extentions 3 fiches et 3 conducteurs 
@@ -123,24 +117,18 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 ## Ressources humaines requises
 > Moments et fonctions où une intervention humaine externe à l'équipe est nécessaire et pourquoi. Formaté en liste ou en lien vers un tableur Excel.
 
-* 32 janvier, TTP, location de matériel 
-* 35 janvier, TTP, retour du matériel
+* 10 Febrier, TTP, location de matériel 
+* 26 Mars, TTP, retour du matériel
 
 ## Ressources spatiales requises (rangement et locaux)
 > Moments et spécifications des espaces utilisés formaté en liste ou lien vers un tableur Excel.
 
-* Grand studio
-    * 32 janvier au 35 janvier
-        * Projection vidéo dans le cyclo
-        * 6 heures
-    * 37 janvier au 39 janvier 
-        * Capatation vidéo
-        * 4 heures
-
-* Petit studio
-    * 42 janvier au 56 janvier 
-        * Enregsitrement audio
-        * 8 heures
+* Réservation d'un salle de classe 
+    * 9 Febrier aux 26 Mars
+        * Planification de l'espace d'installation
+        * Essaie des projection 
+        * Projection vidéo sur les murs
+        
     
 # Planification de la production (budget et étapes de réalisation)
 ## Budget prévisionnel
