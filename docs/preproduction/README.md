@@ -1,7 +1,5 @@
 # Préproduction
-> C'est ici qu'on dépose les éléments de la préproduction.
 
-> Au besoin, se référer à l'[Appel de projet](https://cmontmorency365.sharepoint.com/:w:/s/TIM-58266B-Expriencemultimdiainteractive-Enseignants/EQ3PqvTQPzFDnpeccqWYOAgBZowMn5-3gtl0I_OxsEGC-Q?e=DuUbuG), au [Plan de cours](https://cmontmorency365.sharepoint.com/:w:/s/TIM-58266B-Expriencemultimdiainteractive-Enseignants/EWLLhctc9WZJiDCSjlMXcFoBA9fMhQRS4PHbGXHCH2Irxw?e=qGOnLf) et à la [Grille d'évaluation de la préproduction](https://cmontmorency365.sharepoint.com/:w:/s/TIM-58266B-Expriencemultimdiainteractive-Enseignants/ETcbkxD6vp1EmhhiZ3Di5_sBZwSyqisa7s3543kMy28dSg?e=gnu6Bt).
 
 # Table des matières
 1. [Intention ou concept](#Intention-ou-concept)
@@ -28,18 +26,13 @@
 
 # Intention ou concept
 ## Synopsis
-Une simulation d’une vie à l’étude, un élève cours dans son chemin académique et rencontre des obstacles, telle que les réseaux sociaux, la situation actuelle, l’internet et les mauvaises notes dans son chemin à la réussite. Si le personnage réussi à prendre trois A, il gagne la partie. Au contraire, s’il prend trois F il échoue son étude. Le public est appelé à aider l'élève a réussir son parcour scolaire tout en traversant le couloir de l'école.
+Notre projet consiste en une simulation d’une vie à l’étude. Un étudiant court le long de son chemin académique et rencontre des obstacles, tels que les réseaux sociaux, la pandémie, l’Internet et les mauvaises notes dans son chemin à la réussite. Si le personnage réussi à prendre trois A, il gagne la partie. Au contraire, s’il prend trois F, il échoue ses études.
 
 ## Intention de départ
-Avec ce projet, nous voulions démontrer la réaliter où les étudiants ce trouvent, les obstacles qui rencontrent et l'ansiété de réussir leurs parcour scolaire tout en allant le problème de la pandémie.
+Avec la situation de pandémie, les études sont encore plus stressantes et démotivantes. Nous avons donc pensé qu'un jeu avec une approche humoristique serait une bonne idée pour remonter le moral des étudiants. C'est également un façon de faire comprendre comment nous pouvons nous sentir face à ce qui se passe dans le monde en ce moment.
 
 ## Tableau d'ambiance (*moodboard*)
-> Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
-
-> Insérez directement des captures d'écran et liens vers des médias ici.
-
-[Exemple de tableaux d'ambiance visuels (images, couleurs, typographie)](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/tableau_ambiance/1_tableau_ambiance_exemple.pdf)
-![ici est une description de l'image.](medias/moodboard.png)
+![Moodboard de School Run](medias/moodboard.png)
 
 
 ## Scénario, scénarimage ou document audio/visuel
@@ -48,13 +41,10 @@ Avec ce projet, nous voulions démontrer la réaliter où les étudiants ce trou
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
 
-- 15 icônes de navigation (pour les utilisateur-trices)
-- 8 montages d'image
-- 3 paysages sonores
-- 5 vidéos d'animation 2D
-- 3 textes poétiques
-- 7 modules multimédias (ex. captation des données, interprétation des données, contrôle d'éclairage, effets audiovisuels, contrôle vidéo, contrôle de la navigation utilisateur & des différents sous-modules, diffusion et interaction en ligne...).
-- ...
+- 1 vidéo d'animation 2D (Vidéo de veille)
+- 6 montages vidéo (Netflix, COVID, A+, F, Fin A+, Fin F)
+- 4 paysages sonores (Début, Jeu, Fin A+, Fin F)
+- 10 enregistrements vocaux (Pour les messages F et A)
 
 Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3})
 
@@ -63,7 +53,6 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 # Planification technique (devis technique)
 ## Schémas ou plans techniques
-> Insérer plans, documents et schémas pertinents dans cette sectio.  
 
 ### Schéma de branchement 
 
@@ -81,7 +70,6 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 * 1 Chaise
 
 ## Équipements requis
-> Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Audio
     * 4 haut-parleurs"
@@ -93,7 +81,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 * Vidéo
     * 3 projecteurs vidéo lentille standard
     * 3 système d'acrochage
-    * camera
+    * Caméra
 
 * Électricité
     * 4 cordon IEC (pour l'alimentation des haut-parleurs)
@@ -105,33 +93,37 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * Switch poe 5 ports
 
 * Ordinateur
-    * 1 ordinateur portable 
+    * 1 ordinateur de bureau
     
 * Autre
-    * Tout autre élément pertinant
+    * Tout autre élément pertinent
 
 ## Logiciels requis
-> Liste des logiciels requis, version ainsi que leurs dépendences
 
 * [Max 8](https://cycling74.com/products/max)   
 * [Unity 2019 lts](https://unity.com/)
 * [Madmapper](https://madmapper.com/)
+* [Adobe Premiere](https://www.adobe.com/ca_fr/products/premiere.html)
+* [Adobe After Effects](https://www.adobe.com/ca/products/aftereffects.html)
 
 ## Ressources humaines requises
-> Moments et fonctions où une intervention humaine externe à l'équipe est nécessaire et pourquoi. Formaté en liste ou en lien vers un tableur Excel.
 
-* 10 Febrier, TTP, location de matériel 
-* 26 Mars, TTP, retour du matériel
+* 10 février, TTP, location de matériel 
+* 26 mars, TTP, retour du matériel
+* 13 février, Mélanie Simard, enregistrement des voix
 
 ## Ressources spatiales requises (rangement et locaux)
-> Moments et spécifications des espaces utilisés formaté en liste ou lien vers un tableur Excel.
 
 * Réservation d'un salle de classe 
-    * 9 Febrier aux 26 Mars
+    * La classe doit mesurer environ :
+    * Les murs doivent être blanc (ou une couleur proche, comme gris très pâle);
+    * Si possible, la classe doit contenir des haut-parleurs et des projecteurs (3);
+    * Proche du grand studio;
+    * Possibilité de vider la classe;
+    * Être disponible du 10 février aux 26 mars pour : 
         * Planification de l'espace d'installation
-        * Essaie des projection 
-        * Projection vidéo sur les murs
-        
+        * Essais des projection 
+        * Projection vidéo sur les murs   
     
 # Planification de la production (budget et étapes de réalisation)
 ## Budget prévisionnel
@@ -162,7 +154,6 @@ https://github.com/pamelasanscartier/school_run/issues
 - Installation de l'équipement dans l'espace physique.
 - **Coordination artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe)**;
 - Montage vidéo des effets visuels;
-- Création des vidéos d'animations 2D;
 - Programmation des personnalisations dans Unity;
 - Enregistrement des voix.
 
@@ -188,9 +179,9 @@ https://github.com/pamelasanscartier/school_run/issues?q=is%3Aopen+assignee%3Aja
 - **Comité Diffusion et coordination de la diffusion (mise en ligne du Site Web, organisation de la plateforme et de l'événement de diffusion)**;
 - Installation et mise en place de la capture audiovidéo du projet en temps réel;
 - Programmation du module de captation des données;
-- Programmation du module de diffusion et d'interaction en ligne (page Web, diffusion vidéo dans Twitch via OBS, interface utilisateur dans Open Stage Control)
-- Modélisation des éléments 3D;
-- Programmation de l'interface qui permettra aux utilisateurs de jouer à la version jeu seulement.
+- Programmation du module de diffusion et d'interaction en ligne (page Web, diffusion vidéo dans Twitch via OBS, interface utilisateur dans Open Stage Control);
+- Montage vidéo des effets visuels;
+- Création des vidéos d'animations 2D;
 
 Liste des tâches dans Git Hub:  
 https://github.com/pamelasanscartier/school_run/projects/1?card_filter_query=assignee%3Acapkidd1
@@ -198,7 +189,7 @@ https://github.com/pamelasanscartier/school_run/issues?q=is%3Aopen+assignee%3ACa
 
 
 **Tâches pas encore attribuées**  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee
+https://github.com/pamelasanscartier/school_run/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee+
 
 ## Moments des rencontres d'équipe
 Quotidien
