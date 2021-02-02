@@ -135,9 +135,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     
 # Planification de la production (budget et étapes de réalisation)
 ## Budget prévisionnel
-![Budget prévisionnel](medias/budget_capture_20210113.PNG)
-
-[Lien vers document](https://cmontmorency365.sharepoint.com/:x:/s/TIM-58266B-Expriencemultimdiainteractive-Enseignants/ERS3zx4iKAlLn03N_0h3cyQBOV_nxNuKvrKnqmrXGcgDYg?e=Rjq9Uc)
+Aucun budget n'est nécessaire pour ce projet.
 
 
 ## Échéancier global
@@ -159,55 +157,45 @@ https://github.com/pamelasanscartier/school_run/issues
 ## Rôles et responsabilités des membres de l'équipe
 > Il vous est proposé ici de nommer une personne à la coordination générale du projet, à la coordination technique, à la coordination de la diffusion et à la coordination artistique. Les grandes décisions sur les grandes orientations du projet devraient se prendre en groupe lors des rencontres d'équipe quotidiennes et hebdomadaires. Cependant, les décisions entre vos rencontres de groupe devraient appartenir à ces personnes.
 
-**Pamela**
-- Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
-- Création du plan de l'installation physique;
+### **Pamela**
+- **Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe)**;
 - Installation de l'équipement dans l'espace physique.
+- **Coordination artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe)**;
+- Montage vidéo des effets visuels;
+- Création des vidéos d'animations 2D;
+- Programmation des personnalisations dans Unity;
+- Enregistrement des voix.
 
 Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
+https://github.com/pamelasanscartier/school_run/projects/1?card_filter_query=assignee%3Apamelasanscartier
+https://github.com/pamelasanscartier/school_run/issues?q=is%3Aopen+assignee%3Apamelasanscartier 
 
-**Jan Carlos**
-- Comité Technique et coordination technique (suivi du devis technique);
+
+### **Jan Carlos**
+- **Comité Technique et coordination technique (suivi du devis technique)**;
+- Création du plan de l'installation physique;
 - Création des paysages sonores;
-- Programmation du module Max d'effet et de contrôle audio;
-- Programmation du module Max de contrôle vidéo.
-- Programmation pour afficher les éléments visuels du jeu dans l'espace physique.
+- Programmation du module Max d'effet et de contrôle audio dans la classe;
+- Programmation du module Max de contrôle vidéo dans la classe;
+- Programmation des fonctions de base dans Unity.
 
 Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
+https://github.com/pamelasanscartier/school_run/projects/1?card_filter_query=assignee%3Ajanki000 
+https://github.com/pamelasanscartier/school_run/issues?q=is%3Aopen+assignee%3Ajanki000
 
-**David**
-- Comité Diffusion et coordination de la diffusion (mise en ligne du Site Web, organisation de la plateforme et de l'événement de diffusion);
+
+### **David**
+- **Comité Diffusion et coordination de la diffusion (mise en ligne du Site Web, organisation de la plateforme et de l'événement de diffusion)**;
 - Installation et mise en place de la capture audiovidéo du projet en temps réel;
 - Programmation du module de captation des données;
 - Programmation du module de diffusion et d'interaction en ligne (page Web, diffusion vidéo dans Twitch via OBS, interface utilisateur dans Open Stage Control)
 - Modélisation des éléments 3D;
+- Programmation de l'interface qui permettra aux utilisateurs de jouer à la version jeu seulement.
 
 Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
+https://github.com/pamelasanscartier/school_run/projects/1?card_filter_query=assignee%3Acapkidd1
+https://github.com/pamelasanscartier/school_run/issues?q=is%3Aopen+assignee%3ACapKidd1
 
-**Jan Carlos**
-- Coordination artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe);
-- Création des textes poétiques;
-- Création des vidéos d'animation 2D;
-- Programmation du module Unity d'effets visuels et intégration dans Max.
-
-Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
-
-**David**
-- Création des icônes de navigation;
-- Programmation du module Max d'éclairage;
-- Programmation du module Max de contrôle de la navigation utilisateur & des différents sous-modules.
-
-Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
 
 **Tâches pas encore attribuées**  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee
