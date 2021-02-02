@@ -28,12 +28,10 @@
 
 # Intention ou concept
 ## Synopsis
-Laurence et Simone demeurent ensemble et s’aiment. Un événement tragique vient bouleverser leur vie de couple. Incapable de se comprendre, ils finissent par se séparer. 
-
-Le public est appelé à découvrir le mystère entourant cette difficile séparation.
+Une simulation d’une vie à l’étude, un élève cours dans son chemin académique et rencontre des obstacles, telle que les réseaux sociaux, la situation actuelle, l’internet et les mauvaises notes dans son chemin à la réussite. Si le personnage réussi à prendre trois A, il gagne la partie. Au contraire, s’il prend trois F il échoue son étude. Le public est appelé à aider l'élève a réussir son parcour scolaire tout en traversant le couloir de l'école.
 
 ## Intention de départ
-Par ce projet, nous souhaitons exposer la grande fragilité des relations sociales et amoureuses qui traverse nos vies.
+Avec ce projet, nous voulions démontrer la réaliter où les étudiants ce trouvent, les obstacles qui rencontrent et l'ansiété de réussir leurs parcour scolaire tout en allant le problème de la pandémie.
 
 ## Tableau d'ambiance (*moodboard*)
 > Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
