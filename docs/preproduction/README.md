@@ -66,8 +66,8 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 > Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
-* 1 Table
-* 1 Chaise
+* Rideaux blanc opaque
+* Tapis Dance Dance
 
 ## Équipements requis
 
