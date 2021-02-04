@@ -32,7 +32,7 @@ Notre projet consiste en une simulation d’une vie à l’étude. Un étudiant 
 Avec la situation de pandémie, les études sont encore plus stressantes et démotivantes. Nous avons donc pensé qu'un jeu avec une approche humoristique serait une bonne idée pour remonter le moral des étudiants. C'est également un façon de faire comprendre comment nous pouvons nous sentir face à ce qui se passe dans le monde en ce moment.
 
 ## Tableau d'ambiance (*moodboard*)
-![Moodboard de School Run](medias/moodboard.png)
+![Moodboard de School Run](medias/moodboard1.png)
 
 
 ## Scénario, scénarimage ou document audio/visuel
@@ -66,8 +66,8 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 > Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
-* 1 Table
-* 1 Chaise
+* Rideaux blanc opaque
+* Tapis Dance Dance
 
 ## Équipements requis
 
