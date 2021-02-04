@@ -127,8 +127,8 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     
 # Planification de la production (budget et étapes de réalisation)
 ## Budget prévisionnel
-Aucun budget n'est nécessaire pour ce projet.
-
+![Budget prévisionnel](medias/budget_school_run.PNG)
+[Lien vers le document](https://cmontmorency365-my.sharepoint.com/:x:/r/personal/1444975_cmontmorency_qc_ca1/_layouts/15/Doc.aspx?sourcedoc=%7B8FB80709-6FD5-42B0-8CD6-E6A511334527%7D&file=Classeur%201.xlsx&action=default&mobileredirect=true)
 
 ## Échéancier global
 Étapes importantes du projet visualisées dans GitHub (*milestones*):  
@@ -147,7 +147,6 @@ Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:
 https://github.com/pamelasanscartier/school_run/issues
 
 ## Rôles et responsabilités des membres de l'équipe
-> Il vous est proposé ici de nommer une personne à la coordination générale du projet, à la coordination technique, à la coordination de la diffusion et à la coordination artistique. Les grandes décisions sur les grandes orientations du projet devraient se prendre en groupe lors des rencontres d'équipe quotidiennes et hebdomadaires. Cependant, les décisions entre vos rencontres de groupe devraient appartenir à ces personnes.
 
 ### **Pamela**
 - **Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe)**;
