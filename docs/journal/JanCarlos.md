@@ -55,6 +55,11 @@ Rencontre avec l'équipe et nous mettre à jours pour trouver des solution pour 
 ---
 ## Semaine 1 (30 janvier au 5 février)
 ### Résumé des réalisations effectuées
+- Présentation de notre preaprobation. 
+- Rencontre avec l'Équipe pour voir les changement à effectuer.
+- commencement d'un nouveaux schema de plantation par rapport au sugestion reçu.
+- prendre rendez-vous avec Cedrick pour me guider dans tout ce qui est câblage et tout.
+- premier meeting avec le commité technique.
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
@@ -63,32 +68,32 @@ Rencontre avec l'équipe et nous mettre à jours pour trouver des solution pour 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Parceque je reussi à faire tout ce qui été à faire pour cette semaine, bien sur qu'on à des modification à faire, alors le tout n'est pas fini, mais pour mes objectif de la semaine je pense avoir reussi.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+On se rencontré en équipe et pour ma part comme je le deja mentioné je pris rendez-vous avec Cedrick pour avoir plus d'information sur tout ce qui est câblage et montage pour notre projet.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Pour le momment on travaillesur les modification et on vera par la suite.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Travailler plus et encore plus.
 
 ### Défis pour la prochaine semaine
-
+Pour la semaine prochaine on aimerais avoir tout fini les modification et être prêt pour commencer a monter notre prototype.
 
 ---
 ## Semaine 2 (6 au 12 février)
