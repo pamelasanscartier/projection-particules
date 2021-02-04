@@ -50,6 +50,7 @@ Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency
 
 ## Univers artistique des éléments
 Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3}).
+(https://docs.google.com/spreadsheets/d/1aTiW2BlDx6qbVfFpZxfX0-r6PjeXfDaRXsAZI6QH6Ho/edit#gid=0})
 
 # Planification technique (devis technique)
 ## Schémas ou plans techniques
