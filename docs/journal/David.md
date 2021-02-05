@@ -54,39 +54,50 @@ Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id 
 ## Semaine 1 (30 janvier au 5 février)
 ### Résumé des réalisations effectuées
 
+- Modifié le moodboard pour qui soit plus clair.
+- Effectuer l'inventaire de nôtre contenu multimédia sur excel.
+- Réflechir au animations qu'on ajoutera pour notre espace interactif.
+- Trouvé des inspiration de son pour nôtre jeu.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![ici est une description de l'image.](medias/moodboard1.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
  
+De mon côter, j'ai faite les modifications dans la préproductions apporté par le prof. On a dû modifier un peu nôtre concept par rapport à la réalisation qu'on va devoir faire pour sur place. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
+Pour l'instant, on est correcte. On a faite les modifications requises.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
 
+On a eu des suggestions apporté par le prof, entre autre: Au lieu que le tout soit jouer sur un écran d'ordi, on pourrait le projeter vers l'avant pour une expérience plus immersif.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
+Pour le moment, on a pas de modification a faire.
 
 ### Défis pour la prochaine semaine
 
+- Terminé la préprod pour la remise.
+- Trouvé les sons pour nôtre jeu.
+- Commencé les animations pour les projeter aux murs.
 
 ---
 ## Semaine 2 (6 au 12 février)
