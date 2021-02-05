@@ -62,40 +62,51 @@ Pour cette semaine, cette section ne s'applique pas.
 ---
 ## Semaine 1 (30 janvier au 5 février)
 ### Résumé des réalisations effectuées
-
+- Créer et assigner les issues pour les corrections de la préproduction
+- Effectuer les corrections pour les issues sur GitHub
+- Recherches pour matériel scénographique
+- Modifications de comment l'expérience va se vivre
+- Faire le suivi de l'avancement des membres de l'équipe
+- Création du tableau pour les revenus et les dépenses
+- Recherches pour l'univers artistiques des éléments [En cours]
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Code de couleur pour les tâches](medias/to_do.PNG)
+Pourquoi ? Parce que grâce à Guillaume, j'ai appris l'existence des labels et que c'est beaucoup plus clair comme ça.
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Pour le côté de la préproduction, ça avance bien. Nous sommes en train de faire les corrections suggérées par les profs. Je m'assure également que ce qui est mit dans la préproduction convient à chaque membre de l'équipe. Par contre, c'est les recherches pour lier le réel et le jeu qui n'ont pas eu lieu. Je n'ai pas prit le temps de le faire.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Normalement, ce genre de problème ne devrait plus se produire, car maintenant nous savons plus précisement comment notre expérience va se dérouler.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Nous avons changé un détail : au lieu de se contrôler par clavier et souris, le jeu se contrôlera par un tapis DDR (si nous trouvons de la documentation pour bien intégrer cette partie, sinon, nous nous tournerons vers la manette de jeu).
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Nous n'avons plus d'éléments qui requièrent des changements drastiques, donc en ne perdant pas de vue notre objectif, il ne devrait pas y avoir de problème. Ça va demander beaucoup de recherches et de tests.
 
 ### Défis pour la prochaine semaine
-
+- Trouver comment intégrer un tapis de DDR
+- Terminer l'univers artistique des éléments
+- Terminer Inventaire du contenu multimédia
+- Mettre à jour les ressources humaines requises
+- Faire une dernière vérification de la préproduction avec l'équipe avant la remise.
 
 ---
 ## Semaine 2 (6 au 12 février)
