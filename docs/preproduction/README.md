@@ -73,20 +73,22 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 ## Équipements requis
 
 * Audio
-    * 4 haut-parleurs"
+    * 4 haut-parleurs GNLK"
     * 4 fils XLR 3 conducteurs de 15' (M->F)
     * Interface audio USB disposant 4 sorties
-    * 1 fil mini jack 
-    * 4 fils jack
+    * 1 Carte de son 4int 4out
+    * Système de fixation extensible 5 à 10 pied
+    * Câble de surete / Safety
+    * Haut-parleurs cheezboro
 
 * Vidéo
     * 3 projecteurs vidéo lentille standard
     * 3 système d'acrochage
-    * Caméra
+
 
 * Électricité
     * 4 cordon IEC (pour l'alimentation des haut-parleurs)
-    * 2 extentions 3 fiches et 3 conducteurs 
+    * 3 extentions 3 fiches et 3 conducteurs 
     * 2 multiprise
 
 * Réseau
