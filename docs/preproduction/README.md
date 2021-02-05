@@ -61,13 +61,13 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ### Plantation 
 
-![exemple de plantation](medias/plantation2.png)
+![exemple de plantation](medias/plantation03.jpg)
 
 ## Matériel de scénographie requis
 
 > Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
-* Rideaux blanc opaque
+* 2 Murs demontables
 * Tapis Dance Dance
 
 ## Équipements requis
@@ -92,7 +92,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * 2 multiprise
 
 * Réseau
-    * 4 fils cat6a de 15"
+    * 2 fils cat6a de 15"
     * Switch poe 5 ports
 
 * Ordinateur
