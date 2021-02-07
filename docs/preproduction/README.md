@@ -32,7 +32,7 @@ Notre projet consiste en une simulation d’une vie à l’étude. Un étudiant 
 Avec la situation de pandémie, les études sont encore plus stressantes et démotivantes. Nous avons donc pensé qu'un jeu avec une approche humoristique serait une bonne idée pour remonter le moral des étudiants. C'est également un façon de faire comprendre comment nous pouvons nous sentir face à ce qui se passe dans le monde en ce moment.
 
 ## Tableau d'ambiance (*moodboard*)
-![Moodboard de School Run](medias/moodboard1.png)
+![Moodboard de School Run](medias/moodboard2.png)
 
 
 ## Scénario, scénarimage ou document audio/visuel
