@@ -32,7 +32,7 @@ Notre projet consiste en une simulation d’une vie à l’étude. Un étudiant 
 Avec la situation de pandémie, les études sont encore plus stressantes et démotivantes. Nous avons donc pensé qu'un jeu avec une approche humoristique serait une bonne idée pour remonter le moral des étudiants. C'est également un façon de faire comprendre comment nous pouvons nous sentir face à ce qui se passe dans le monde en ce moment.
 
 ## Tableau d'ambiance (*moodboard*)
-![Moodboard de School Run](medias/moodboard1.png)
+![Moodboard de School Run](medias/moodboard2.png)
 
 
 ## Scénario, scénarimage ou document audio/visuel
@@ -45,12 +45,16 @@ Avec la situation de pandémie, les études sont encore plus stressantes et dém
 - 6 montages vidéo (Netflix, COVID, A+, F, Fin A+, Fin F)
 - 4 paysages sonores (Début, Jeu, Fin A+, Fin F)
 - 10 enregistrements vocaux (Pour les messages F et A)
+- 1 module de programmation pour le son (voix)
+- 1 module de programmation pour le paysage sonore
+- 1 module de programmation pour les projections
+- 1 module de programmation pour les éclairages 
 
 Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3})
 
 ## Univers artistique des éléments
 Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3}).
-(https://docs.google.com/spreadsheets/d/1aTiW2BlDx6qbVfFpZxfX0-r6PjeXfDaRXsAZI6QH6Ho/edit#gid=0})
+
 
 # Planification technique (devis technique)
 ## Schémas ou plans techniques
@@ -71,6 +75,8 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 * Tapis Dance Dance
 * Govee Bande lumineuse
 * Tapis fitness
+* Feuilles de vinyl autocollantes
+
 
 ## Équipements requis
 
