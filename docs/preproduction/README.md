@@ -83,8 +83,8 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * 4 Cheezboro Haut-parleurs 
 
 * Vidéo
-    * 3 projecteurs vidéo lentille standard
-    * 3 système d'acrochage
+    * 3 Projecteur short throw, ratio 0.5, 3000 lumens
+    * 3 Système d'acrochage
 
 
 * Électricité
