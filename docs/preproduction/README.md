@@ -70,6 +70,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 * 2 Murs demontables
 * Tapis Dance Dance
 * Govee Bande lumineuse
+* Tapis fitness
 
 ## Équipements requis
 
