@@ -78,8 +78,8 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * 4 fils XLR 3 conducteurs de 15' (M->F)
     * Interface audio USB disposant 4 sorties
     * 1 Carte de son 4int 4out
-    * Système de fixation extensible 5 à 10 pied
-    * Câble de surete / Safety
+    * 4 Système de fixation extensible 5 à 10 pied
+    * 4 Câble de surete / Safety
     * 4 Cheezboro Haut-parleurs 
 
 * Vidéo
