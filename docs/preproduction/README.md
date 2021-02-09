@@ -33,6 +33,7 @@ Avec la situation de pandémie, les études sont encore plus stressantes et dém
 
 ## Tableau d'ambiance (*moodboard*)
 ![Moodboard de School Run](medias/moodboard2.png)
+Inspiration principale : [Temple Run](https://www.youtube.com/watch?v=dw0eTbI5avM)
 
 
 ## Scénario, scénarimage ou document audio/visuel
@@ -41,10 +42,10 @@ Avec la situation de pandémie, les études sont encore plus stressantes et dém
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
 
-- 1 vidéo d'animation 2D (Vidéo de veille)
-- 6 montages vidéo (Netflix, COVID, A+, F, Fin A+, Fin F)
-- 4 paysages sonores (Début, Jeu, Fin A+, Fin F)
-- 10 enregistrements vocaux (Pour les messages F et A)
+- 4 vidéos d'animation 2D 
+- 7 montages vidéo 
+- 4 paysages sonores
+- 14 enregistrements vocaux (Pour les messages F et A)
 - 1 module de programmation pour le son (voix)
 - 1 module de programmation pour le paysage sonore
 - 1 module de programmation pour les projections
@@ -71,7 +72,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 > Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
-* 2 Murs demontables
+* 2 Murs démontables
 * Tapis Dance Dance
 * Govee Bande lumineuse
 * Tapis fitness
@@ -116,6 +117,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 * [Madmapper](https://madmapper.com/)
 * [Adobe Premiere](https://www.adobe.com/ca_fr/products/premiere.html)
 * [Adobe After Effects](https://www.adobe.com/ca/products/aftereffects.html)
+* [Maya](https://www.autodesk.ca/en/products/maya/overview?plc=MAYA&term=1-YEAR&support=ADVANCED&quantity=1)
 
 ## Ressources humaines requises
 
