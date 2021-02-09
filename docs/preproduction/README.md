@@ -51,10 +51,10 @@ Inspiration principale : [Temple Run](https://www.youtube.com/watch?v=dw0eTbI5av
 - 1 module de programmation pour les projections
 - 1 module de programmation pour les éclairages 
 
-Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3})
+Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/1444975_cmontmorency_qc_ca1/EdDtdKwSj6VDgrOSbEyrfvEBIP7cvuMJ_1IAHWA5S1dBng?e=uSSPsl)
 
 ## Univers artistique des éléments
-Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3}).
+Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégrer](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/1444975_cmontmorency_qc_ca1/EdDtdKwSj6VDgrOSbEyrfvEBIP7cvuMJ_1IAHWA5S1dBng?e=uSSPsl).
 
 
 # Planification technique (devis technique)
@@ -131,7 +131,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ## Ressources spatiales requises (rangement et locaux)
 * Notre installation aura lieu dans le grand studio. 
-![Plan du studio](medias/plan_studio.jpg)
+![Plan du studio](medias/plan_studio.)
     *  Nous utiliserons un mur de 8' et un autre de 12'. Toutefois, nous considérons que l'espace sera carré (8' x 8').
     * Utilisation du 10 février au 26 mars.
         * 10 février : installation de l'équipement
