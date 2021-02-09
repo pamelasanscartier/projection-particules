@@ -38,7 +38,11 @@ Inspiration principale : [Temple Run](https://www.youtube.com/watch?v=dw0eTbI5av
 - Inspiration pour les distractions = 
 
 ## Scénario, scénarimage ou document audio/visuel
-[Exemple de scénarimage visuel pour vidéo d'animation](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/scenarimage/storyboard_animation_exemple2.pdf)
+[Scénarimage pour la fin A+](medias/fin_a.png)
+
+[Scénarimage pour la fin F](medias/fin_f.png)
+
+[Scénarimage pour la fin distraction](medias/fin_distraction.png)
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
