@@ -55,6 +55,8 @@ Inspiration principale : [Temple Run](https://www.youtube.com/watch?v=dw0eTbI5av
 Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/1444975_cmontmorency_qc_ca1/EdDtdKwSj6VDgrOSbEyrfvEBIP7cvuMJ_1IAHWA5S1dBng?e=uSSPsl)
 
 ## Univers artistique des éléments
+Nous cherchons à avoir une atmosphère joyeuse : luminosité, beaucoup de couleurs (pas trop vives) et des sons avec un tempo élevé.
+
 Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégrer](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/1444975_cmontmorency_qc_ca1/EdDtdKwSj6VDgrOSbEyrfvEBIP7cvuMJ_1IAHWA5S1dBng?e=uSSPsl).
 
 
