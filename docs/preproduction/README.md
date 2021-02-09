@@ -93,8 +93,8 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 * Vidéo
     * 3 Projecteur short throw, ratio 0.5, 3000 lumens
     * 3 Système d'acrochage
-
-* Lumières
+   
+ * Lumières  
     * Govee Bande lumineuse
 
 
@@ -125,26 +125,24 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 ## Ressources humaines requises
 
 * 10 février, TTP, location de matériel 
-* 26 mars, TTP, retour du matériel
+* 10 février, TTP, installation du matériel dans l'espace
 * 13 février, Mélanie Simard, enregistrement des voix
+* 26 mars, TTP, retour du matériel
 
 ## Ressources spatiales requises (rangement et locaux)
-
-* Réservation d'un salle de classe 
-    * La classe doit mesurer environ :
-    * Les murs doivent être blanc (ou une couleur proche, comme gris très pâle);
-    * Si possible, la classe doit contenir des haut-parleurs et des projecteurs (3);
-    * Proche du grand studio;
-    * Possibilité de vider la classe;
-    * Être disponible du 10 février aux 26 mars pour : 
-        * Planification de l'espace d'installation
-        * Essais des projection 
-        * Projection vidéo sur les murs   
+* Notre installation aura lieu dans le grand studio. 
+    *  Nous utiliserons un mur de 8' et un autre de 12'. Toutefois, nous considérons que l'espace sera carré (8' x 8').
+    * Utilisation du 10 février au 26 mars.
+        * 10 février : installation de l'équipement
+        * 10 février au 21 mars : réalisation du projet / entreposage de l'équipement
+        * 22 mars au 26 mars : présentation des projets
+        * 26 mars : démontage de l'équipement
     
 # Planification de la production (budget et étapes de réalisation)
 ## Budget prévisionnel
 ![Budget prévisionnel](medias/budget_school_run.PNG)
-[Lien vers le document](https://cmontmorency365-my.sharepoint.com/:x:/r/personal/1444975_cmontmorency_qc_ca1/_layouts/15/Doc.aspx?sourcedoc=%7B8FB80709-6FD5-42B0-8CD6-E6A511334527%7D&file=Classeur%201.xlsx&action=default&mobileredirect=true)
+
+[Lien vers le document](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/1444975_cmontmorency_qc_ca1/EQkHuI_Vb7BCjNbmpREzRScBJaXtUsadCIltsQF4xvOPfA?e=m0m72Y)
 
 ## Échéancier global
 Étapes importantes du projet visualisées dans GitHub (*milestones*):  
@@ -212,6 +210,7 @@ Quotidien
 
 Hebdomadaire
 - **Mardi 11h00 (environ 1h)** : Rencontre d'équipe avec professeur
+- **Jeudi 18h00 (environ 1h)** : Rencontre d'équipe pour faire un suivi sur les journaux et pour mettre à jour le site Web
 - **Vendredi 9h50 (environ 2h)** : Rencontre générale de classe
 - **Vendredi 13h00 (environ 2h)** : Rencontre de mise à jour d'équipe (Journal Web, suivis, mise à jour de l'échéancier, partage des tâches et autres)
 
