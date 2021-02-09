@@ -32,8 +32,10 @@ Notre projet consiste en une simulation d’une vie à l’étude. Un étudiant 
 Avec la situation de pandémie, les études sont encore plus stressantes et démotivantes. Nous avons donc pensé qu'un jeu avec une approche humoristique serait une bonne idée pour remonter le moral des étudiants. C'est également un façon de faire comprendre comment nous pouvons nous sentir face à ce qui se passe dans le monde en ce moment.
 
 ## Tableau d'ambiance (*moodboard*)
-![Moodboard de School Run](medias/moodboard2.png)
+![Moodboard de School Run](medias/moodboard3.png)
+- Inspiration du jeu = https://play.google.com/store/apps/details?id=com.imangi.templerun&hl=en_CA&gl=US.
 
+- Inspiration pour les distractions = 
 
 ## Scénario, scénarimage ou document audio/visuel
 [Exemple de scénarimage visuel pour vidéo d'animation](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/scenarimage/storyboard_animation_exemple2.pdf)
