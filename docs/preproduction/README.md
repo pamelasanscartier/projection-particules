@@ -86,12 +86,15 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * Interface audio USB disposant 4 sorties
     * 1 Carte de son 4int 4out
     * 4 Système de fixation extensible 5 à 10 pied
-    * 4 Câble de surete / Safety
+    * 4 Câble de sureté / Safety
     * 4 Cheezboro Haut-parleurs 
 
 * Vidéo
     * 3 Projecteur short throw, ratio 0.5, 3000 lumens
     * 3 Système d'acrochage
+
+* Lumières
+    * Govee Bande lumineuse
 
 
 * Électricité
