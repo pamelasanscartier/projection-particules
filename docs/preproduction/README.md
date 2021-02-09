@@ -131,6 +131,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ## Ressources spatiales requises (rangement et locaux)
 * Notre installation aura lieu dans le grand studio. 
+![Plan du studio](medias/plan_studio.jpg)
     *  Nous utiliserons un mur de 8' et un autre de 12'. Toutefois, nous considérons que l'espace sera carré (8' x 8').
     * Utilisation du 10 février au 26 mars.
         * 10 février : installation de l'équipement
