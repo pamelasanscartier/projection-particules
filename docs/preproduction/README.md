@@ -33,7 +33,7 @@ Avec la situation de pandémie, les études sont encore plus stressantes et dém
 
 ## Tableau d'ambiance (*moodboard*)
 ![Moodboard de School Run](medias/moodboard3.png)
-- Inspiration du jeu = https://play.google.com/store/apps/details?id=com.imangi.templerun&hl=en_CA&gl=US.
+Inspiration principale : [Temple Run](https://www.youtube.com/watch?v=dw0eTbI5avM)
 
 - Inspiration pour les distractions = 
 
@@ -43,23 +43,27 @@ Avec la situation de pandémie, les études sont encore plus stressantes et dém
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
 
-- 1 vidéo d'animation 2D (Vidéo de veille)
-- 6 montages vidéo (Netflix, COVID, A+, F, Fin A+, Fin F)
-- 4 paysages sonores (Début, Jeu, Fin A+, Fin F)
-- 10 enregistrements vocaux (Pour les messages F et A)
+- 4 vidéos d'animation 2D 
+- 7 montages vidéo 
+- 4 paysages sonores
+- 14 enregistrements vocaux (Pour les messages F et A)
+- 1 module de programmation pour le son (voix)
+- 1 module de programmation pour le paysage sonore
+- 1 module de programmation pour les projections
+- 1 module de programmation pour les éclairages 
 
-Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3})
+Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/1444975_cmontmorency_qc_ca1/EdDtdKwSj6VDgrOSbEyrfvEBIP7cvuMJ_1IAHWA5S1dBng?e=uSSPsl)
 
 ## Univers artistique des éléments
-Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3}).
-(https://docs.google.com/spreadsheets/d/1aTiW2BlDx6qbVfFpZxfX0-r6PjeXfDaRXsAZI6QH6Ho/edit#gid=0})
+Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégrer](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/1444975_cmontmorency_qc_ca1/EdDtdKwSj6VDgrOSbEyrfvEBIP7cvuMJ_1IAHWA5S1dBng?e=uSSPsl).
+
 
 # Planification technique (devis technique)
 ## Schémas ou plans techniques
 
 ### Schéma de branchement 
 
-![exemple de schema](medias/Schema_branchement.JPG)
+![exemple de schema](medias/schemabranchement.JPG)
 
 ### Plantation 
 
@@ -69,23 +73,30 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 > Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
-* 2 Murs demontables
+* 2 Murs démontables
 * Tapis Dance Dance
+* Govee Bande lumineuse
+* Tapis fitness
+* Feuilles de vinyl autocollantes
+
 
 ## Équipements requis
 
 * Audio
-    * 4 haut-parleurs GNLK"
+    * 4 haut-parleurs Genelec"
     * 4 fils XLR 3 conducteurs de 15' (M->F)
     * Interface audio USB disposant 4 sorties
     * 1 Carte de son 4int 4out
-    * Système de fixation extensible 5 à 10 pied
-    * Câble de surete / Safety
-    * Haut-parleurs cheezboro
+    * 4 Système de fixation extensible 5 à 10 pied
+    * 4 Câble de sureté / Safety
+    * 4 Cheezboro Haut-parleurs 
 
 * Vidéo
-    * 3 projecteurs vidéo lentille standard
-    * 3 système d'acrochage
+    * 3 Projecteur short throw, ratio 0.5, 3000 lumens
+    * 3 Système d'acrochage
+   
+ * Lumières  
+    * Govee Bande lumineuse
 
 
 * Électricité
@@ -110,30 +121,30 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 * [Madmapper](https://madmapper.com/)
 * [Adobe Premiere](https://www.adobe.com/ca_fr/products/premiere.html)
 * [Adobe After Effects](https://www.adobe.com/ca/products/aftereffects.html)
+* [Maya](https://www.autodesk.ca/en/products/maya/overview?plc=MAYA&term=1-YEAR&support=ADVANCED&quantity=1)
 
 ## Ressources humaines requises
 
 * 10 février, TTP, location de matériel 
-* 26 mars, TTP, retour du matériel
+* 10 février, TTP, installation du matériel dans l'espace
 * 13 février, Mélanie Simard, enregistrement des voix
+* 26 mars, TTP, retour du matériel
 
 ## Ressources spatiales requises (rangement et locaux)
-
-* Réservation d'un salle de classe 
-    * La classe doit mesurer environ :
-    * Les murs doivent être blanc (ou une couleur proche, comme gris très pâle);
-    * Si possible, la classe doit contenir des haut-parleurs et des projecteurs (3);
-    * Proche du grand studio;
-    * Possibilité de vider la classe;
-    * Être disponible du 10 février aux 26 mars pour : 
-        * Planification de l'espace d'installation
-        * Essais des projection 
-        * Projection vidéo sur les murs   
+* Notre installation aura lieu dans le grand studio. 
+![Plan du studio](medias/plan_studio.)
+    *  Nous utiliserons un mur de 8' et un autre de 12'. Toutefois, nous considérons que l'espace sera carré (8' x 8').
+    * Utilisation du 10 février au 26 mars.
+        * 10 février : installation de l'équipement
+        * 10 février au 21 mars : réalisation du projet / entreposage de l'équipement
+        * 22 mars au 26 mars : présentation des projets
+        * 26 mars : démontage de l'équipement
     
 # Planification de la production (budget et étapes de réalisation)
 ## Budget prévisionnel
 ![Budget prévisionnel](medias/budget_school_run.PNG)
-[Lien vers le document](https://cmontmorency365-my.sharepoint.com/:x:/r/personal/1444975_cmontmorency_qc_ca1/_layouts/15/Doc.aspx?sourcedoc=%7B8FB80709-6FD5-42B0-8CD6-E6A511334527%7D&file=Classeur%201.xlsx&action=default&mobileredirect=true)
+
+[Lien vers le document](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/1444975_cmontmorency_qc_ca1/EQkHuI_Vb7BCjNbmpREzRScBJaXtUsadCIltsQF4xvOPfA?e=m0m72Y)
 
 ## Échéancier global
 Étapes importantes du projet visualisées dans GitHub (*milestones*):  
@@ -201,6 +212,7 @@ Quotidien
 
 Hebdomadaire
 - **Mardi 11h00 (environ 1h)** : Rencontre d'équipe avec professeur
+- **Jeudi 18h00 (environ 1h)** : Rencontre d'équipe pour faire un suivi sur les journaux et pour mettre à jour le site Web
 - **Vendredi 9h50 (environ 2h)** : Rencontre générale de classe
 - **Vendredi 13h00 (environ 2h)** : Rencontre de mise à jour d'équipe (Journal Web, suivis, mise à jour de l'échéancier, partage des tâches et autres)
 
