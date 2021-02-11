@@ -98,29 +98,40 @@ Pour la semaine prochaine on aimerais avoir tout fini les modification et être 
 ---
 ## Semaine 2 (6 au 12 février)
 ### Résumé des réalisations effectuées
+- Présentation de notre preaprobation final. 
+- Rencontre avec l'Équipe pour voir les changement à effectuer pour l'ameliorer.
+- adaptation de le schema de plantation par rapport au sugestion reçu.
+- rencontre avec Cedrick  au grand studio pour nous familiariser avec l'équipement, le grand studio et la sale de matrixe.
+- debut des essais technique sur place avec l'équipements.
+- Deuxieme meeting avec le commité technique.
+- Modification de la liste d'emprunt apres le meeting avec le comité technique.
+- commencement de la modification du schema de branchement.
+- Meeting avec l'équipe par rapport à ce qui a été parlé au comité technique, pour leurs faire part des modification a faires.
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![Prémiere journée de montage](medias/1jm.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
+Parceque on a reussi à remettre L'apreprode à temps et que nous savon ou nous nous alignos.
  
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+Pour le momment c'est sur qu'il y a des questions par rapport a notre project, mais grace au meeting du comitée technique c'est plus claire.
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -131,7 +142,7 @@ Pour la semaine prochaine on aimerais avoir tout fini les modification et être 
 
 
 ### Défis pour la prochaine semaine
-
+Mon défis pour la semaine prochaine serais commencer à faire des prototypes avec les sons et les projections. 
 ---
 ## Semaine 3 (13 au 19 février)
 ### Résumé des réalisations effectuées
