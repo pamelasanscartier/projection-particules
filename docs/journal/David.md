@@ -103,38 +103,50 @@ Pour le moment, on a pas de modification a faire.
 ## Semaine 2 (6 au 12 février)
 ### Résumé des réalisations effectuées
 
+- Terminer ce qui rester de la préprod.
+- Recherches sur les animations.
+- Commencement de l'installation de notre espace intéractif.
+- Être présent au comité de diffusion.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![ici est une description de l'image.](medias/projection.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
  
+On a pu finir la préprod à temps. J'aurais aimé commencer les animations mais j'était encore pas sur de l'approche que je voulais avoir avec le style de l'animation et de quoi on voulait qui ressemble. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
+Pour l'instant ça va. C'est une question d'y consacrer plus de temps.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
 
+Oui. On a pu se rassembler avec l'équipe pour avoir une connaissance du milieu qu'on va utiliser ainsi que les matériels requis.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
+-
 
 ### Défis pour la prochaine semaine
+
+- Faire un calendrier pour fixer les dates pour chaque animation.
+- Commencer les animations.
+- Installer les projecteurs.
 
 ---
 ## Semaine 3 (13 au 19 février)
