@@ -33,9 +33,7 @@ Avec la situation de pandémie, les études sont encore plus stressantes et dém
 
 ## Tableau d'ambiance (*moodboard*)
 ![Moodboard de School Run](medias/moodboard3.png)
-Inspiration principale : [Temple Run](https://www.youtube.com/watch?v=dw0eTbI5avM)
-
-- Inspiration pour les distractions = 
+Inspiration principale : [Temple Run](https://www.youtube.com/watch?v=dw0eTbI5avM
 
 ## Scénario, scénarimage ou document audio/visuel
 [Scénarimage pour la fin A+](medias/fin_a.png)
@@ -157,7 +155,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 https://github.com/pamelasanscartier/school_run/milestones
 
 *Dates importantes de diffusion :*
-- Pratique générale : vendredi 19 mars (toute la journée)
+- Pratique générale : jeudi 18 mars (à partir de 17h) et vendredi 19 mars (toute la journée)
 - Début de la diffusion : lundi 22 mars
 - Présentation des projets devant public : jeudi 25 mars (soir)
 

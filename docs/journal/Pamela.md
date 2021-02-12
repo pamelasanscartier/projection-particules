@@ -111,34 +111,37 @@ Nous n'avons plus d'éléments qui requièrent des changements drastiques, donc 
 ---
 ## Semaine 2 (6 au 12 février)
 ### Résumé des réalisations effectuées
-
+- Finalisation des différentes parties de la préproduction non complétées (Univers artistique, inventaire, ressources humaines)
+- Avoir suivi la formation pour le grand studio
+- Début de l'installation de l'équipement dans le grand studio
+- Acquisition du matériel de scénographie
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Projection réussie](medias/photo_semaine_2.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ La préproduction a été complétée à temps et correctement. Nous avons un peu meilleure idée de comment joindre le tapis avec le jeu, mais ça reste encore pas mal vague, car nous n'avons pas encore eu l'occasion de faire des tests.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Arrêter de procrastiner. Il faut commencer à comprendre comment faire en sorte que les logiciels communiquent entre eux.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Pour cette semaine, je voulais aller au studio pour avoir une meilleure idée de comment on allait s'organiser et de commencer à installer l'équipement, ce que nous avons fait.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
