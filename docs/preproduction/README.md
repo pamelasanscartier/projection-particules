@@ -33,12 +33,8 @@ Avec la situation de pandémie, les études sont encore plus stressantes et dém
 
 ## Tableau d'ambiance (*moodboard*)
 ![Moodboard de School Run](medias/moodboard3.png)
-<<<<<<< HEAD
-Inspiration principale : [Temple Run](https://www.youtube.com/watch?v=dw0eTbI5avM
-=======
 Inspiration principale : [Temple Run](https://www.youtube.com/watch?v=dw0eTbI5avM)
 
->>>>>>> d9bf99bd85bb0115006be81b530d319917d10916
 
 ## Scénario, scénarimage ou document audio/visuel
 [Scénarimage pour la fin A+](medias/fin_a.png)
