@@ -35,10 +35,6 @@ Avec la situation de pandémie, les études sont encore plus stressantes et dém
 ![Moodboard de School Run](medias/moodboard3.png)
 Inspiration principale : [Temple Run](https://www.youtube.com/watch?v=dw0eTbI5avM)
 
-<<<<<<< HEAD
-=======
-
->>>>>>> d55feec0c5f1724e4538f91fd85c050dd2842ba5
 ## Scénario, scénarimage ou document audio/visuel
 [Scénarimage pour la fin A+](medias/fin_a.png)
 
