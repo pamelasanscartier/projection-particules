@@ -75,7 +75,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ### Plantation 
 
-![exemple de plantation](medias/plantation03.JPG)
+![exemple de plantation](medias/plangtation4.JPG)
 
 ## Matériel de scénographie requis
 
@@ -94,13 +94,13 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * 4 haut-parleurs Genelec"
     * 4 fils XLR 3 conducteurs de 15' (M->F)
     * Interface audio USB disposant 4 sorties
-    * 1 Carte de son 4int 4out
-    * 4 Système de fixation extensible 5 à 10 pied
-    * 4 Câble de sureté / Safety
-    * 4 Cheezboro Haut-parleurs 
+    * 2 Carte de son 4int 4out
+    * 3 Système de fixation extensible 1.5' à 3'
+    * 7 Câble de sureté / Safety
+    
 
 * Vidéo
-    * 3 Projecteur short throw, ratio 0.5, 3000 lumens
+    * 3 Projecteur standard, ratio 1.5, 3500 lumens
     * 3 Système d'acrochage
    
  * Lumières  
@@ -117,7 +117,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * Switch poe 5 ports
 
 * Ordinateur
-    * 1 ordinateur de bureau
+    * 1 Desktop PC sur chariot mobile.
     
 * Autre
     * Tout autre élément pertinent
@@ -159,7 +159,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 https://github.com/pamelasanscartier/school_run/milestones
 
 *Dates importantes de diffusion :*
-- Pratique générale : vendredi 19 mars (toute la journée)
+- Pratique générale : jeudi 18 mars (à partir de 17h) et vendredi 19 mars (toute la journée)
 - Début de la diffusion : lundi 22 mars
 - Présentation des projets devant public : jeudi 25 mars (soir)
 
