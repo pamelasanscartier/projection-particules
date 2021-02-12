@@ -33,7 +33,12 @@ Avec la situation de pandémie, les études sont encore plus stressantes et dém
 
 ## Tableau d'ambiance (*moodboard*)
 ![Moodboard de School Run](medias/moodboard3.png)
+<<<<<<< HEAD
 Inspiration principale : [Temple Run](https://www.youtube.com/watch?v=dw0eTbI5avM
+=======
+Inspiration principale : [Temple Run](https://www.youtube.com/watch?v=dw0eTbI5avM)
+
+>>>>>>> d9bf99bd85bb0115006be81b530d319917d10916
 
 ## Scénario, scénarimage ou document audio/visuel
 [Scénarimage pour la fin A+](medias/fin_a.png)
@@ -71,7 +76,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ### Plantation 
 
-![exemple de plantation](medias/plantation03.JPG)
+![exemple de plantation](medias/plangtation4.JPG)
 
 ## Matériel de scénographie requis
 
@@ -90,13 +95,13 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * 4 haut-parleurs Genelec"
     * 4 fils XLR 3 conducteurs de 15' (M->F)
     * Interface audio USB disposant 4 sorties
-    * 1 Carte de son 4int 4out
-    * 4 Système de fixation extensible 5 à 10 pied
-    * 4 Câble de sureté / Safety
-    * 4 Cheezboro Haut-parleurs 
+    * 2 Carte de son 4int 4out
+    * 3 Système de fixation extensible 1.5' à 3'
+    * 7 Câble de sureté / Safety
+    
 
 * Vidéo
-    * 3 Projecteur short throw, ratio 0.5, 3000 lumens
+    * 3 Projecteur standard, ratio 1.5, 3500 lumens
     * 3 Système d'acrochage
    
  * Lumières  
@@ -113,7 +118,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * Switch poe 5 ports
 
 * Ordinateur
-    * 1 ordinateur de bureau
+    * 1 Desktop PC sur chariot mobile.
     
 * Autre
     * Tout autre élément pertinent
