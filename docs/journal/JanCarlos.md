@@ -146,21 +146,25 @@ Mon défis pour la semaine prochaine serais commencer à faire des prototypes av
 ---
 ## Semaine 3 (13 au 19 février)
 ### Résumé des réalisations effectuées
-
+- Code pour manette ps4.
+- Rencontre avec Guillaume.
+- Planification de placement des projecteurs au plafond
+- Installation des projecteurs au plafond.
+- Conection du projecteur vers le projecteurs avec cable ethernet. 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Prémiere journée de montage](medias/montage.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Parceque on a pas tout le materiel.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -168,7 +172,7 @@ Mon défis pour la semaine prochaine serais commencer à faire des prototypes av
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -179,7 +183,7 @@ Mon défis pour la semaine prochaine serais commencer à faire des prototypes av
 
 
 ### Défis pour la prochaine semaine
-
+Avoir un prototype fonctionnel du project à montrer.
 ---
 ## Semaine 4 (20 au 26 février)
 ### Résumé des réalisations effectuées
