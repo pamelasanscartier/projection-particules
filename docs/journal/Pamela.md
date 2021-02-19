@@ -157,39 +157,45 @@ Ne s'applique pas pour cette semaine.
 ---
 ## Semaine 3 (13 au 19 février)
 ### Résumé des réalisations effectuées
-
+- Rencontre avec Thomas pour s'informer sur OSC.
+- Faire des essais pour lier Unity et Max.
+- Une fois que les essais ont été concluants, j'ai lié notre jeu avec Max.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![Lien entre Unity et Max](medias/code_max.PNG)
+Pourquoi ? Parce que j'ai réussi à lier Unity et Max, tandis que c'était LE morceau qui me faisait le plus peur.
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Peu
+- [x] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Principalement, pour cette semaine, je voulais terminer d'installer l'équipement. Jan a installé les projecteurs, mais nous n'avons pas pu les ajuster car les murs ne sont pas montés. Aussi, nous n'avons pas encore les haut-parleurs ni le tapis DDR, donc question installation, ça n'a pas beaucoup avancé. Par contre, je suis vraiment contente d'avoir réussi à lier le jeu avec Max. Juste faire des essais c'était quelque chose, mais trouver une façon d'adapter le code au personnage en était une autre.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+C'est malheureusement hors de mon contrôle. Aussitôt que nous recevons le reste de l'équipement, nous pourrons l'installer.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+J'aurais aimé être plus avancée pour l'installation de l'équipement et pour lier le son et Max. Je sais déjà comment je vais faire la base, il ne reste qu'à adapter avec les haut-parleurs.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Continuer de travailler le plus possible.
 
 ### Défis pour la prochaine semaine
+- Mettre les évènements de projection sur chaque obstacle et bonus.
+- Déterminer quels sont vont être joués à partir d'Unity et quels seront joués à partir de Max.
+- Mettre les évènements de sons sur les éléments appropriés.
+- Faire des essais avec Spout pour lier Max et Madmapper.
 
 ---
 ## Semaine 4 (20 au 26 février)
