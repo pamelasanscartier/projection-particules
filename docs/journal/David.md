@@ -152,38 +152,48 @@ Oui. On a pu se rassembler avec l'équipe pour avoir une connaissance du milieu 
 ## Semaine 3 (13 au 19 février)
 ### Résumé des réalisations effectuées
 
+- Projecteurs installés.
+- Se refamiliairiser avec Adobe After-Effect.
+- Faire animation de A+ et F.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![ici est une description de l'image.](medias/a.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
  
+ J'ai réussi à faire deux des animations à l'aide du logiciel after effects.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
+Continuer à travailler.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
 
+Pour l'instant, on a pu faire de quoi avec ce qu'on avait de disponible, le reste on a besoin des matériels pour continuer le tout.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
+Continuer à travailler.
 
 ### Défis pour la prochaine semaine
+
+- Continuer mes animations.
+- Faire le thumbnail pour notre équipe.
 
 ---
 ## Semaine 4 (20 au 26 février)
