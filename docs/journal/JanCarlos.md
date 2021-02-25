@@ -187,29 +187,34 @@ Avoir un prototype fonctionnel du project à montrer.
 ---
 ## Semaine 4 (20 au 26 février)
 ### Résumé des réalisations effectuées
-
+- Preparation pour le prototype
+- presentation du prototype
+- Essaie avec le tapis Dance dance
+- Assemblage des murs demontable
+- Rencontre avec le comité technique
+- installation des 2 autres projecteurs
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![Journée de montage](medias/jmontage.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
+ parceque tout ce qui avait affaire cette semaine à 
+été fait.
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -220,6 +225,7 @@ Avoir un prototype fonctionnel du project à montrer.
 
 
 ### Défis pour la prochaine semaine
+- madmapper pour les trois projecteurs. pour le jeux et les animations sur les côtés gauche et droite.
 
 ---
 ## Semaine de rattrapage (27 février au 5 mars)
