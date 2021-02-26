@@ -200,40 +200,48 @@ Continuer de travailler le plus possible.
 ---
 ## Semaine 4 (20 au 26 février)
 ### Résumé des réalisations effectuées
-
+- Mettre les évènements de projection sur chaque obstacle et bonus
+- Déterminer quels sont vont être joués en ambiance (Unity) et ceux joués en effets sonores (Max)
+- Mettre les effets de sons sur obstacles
+- Utilisation de Spout pour lier Max et Madmapper
+- Création d'un échéancier plus stricte pour les animations
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Lien entre Unity, Max et Madmapper](medias/madmapper.PNG)
+Pourquoi ? Parce que j'ai réussi à lier Unity et Max, tandis que c'était LE morceau qui me faisait le plus peur.
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai réussi encore plus facilement que je croyais à lier Max et Madmapper, donc le reste de travail, pour ma part, risque d'aller bien.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Pas applicable cette semaine.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Pour ce qui est du code et de l'installation en tant que tel, nous avançons très bien. Par contre, pour les animations, ça prend un peu de retard.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Nous avons fait un échéancier plus stricte pour la production des animations.
 
 ### Défis pour la prochaine semaine
-
+- Se tenir à jour de l'avancement des membres de l'équipe et mieux encadrer tâches de chacun.
+- Installer et brancher les deux projecteurs restants pour pouvoir finir de configurer Madmapper.
+- Créer le menu de début dans Unity.
+- Commencer à créer les menus de fin dans Unity.
 ---
 ## Semaine de rattrapage (27 février au 5 mars)
 ### Résumé des réalisations effectuées
