@@ -208,7 +208,7 @@ Continuer de travailler le plus possible.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![Lien entre Unity, Max et Madmapper](medias/madmapper.PNG)
-Pourquoi ? Parce que j'ai réussi à lier Unity et Max, tandis que c'était LE morceau qui me faisait le plus peur.
+Pourquoi ? Parce que j'ai réussi à lier Unity, Max ET Madmapper !
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
