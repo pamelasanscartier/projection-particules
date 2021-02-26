@@ -199,38 +199,49 @@ Continuer à travailler.
 ## Semaine 4 (20 au 26 février)
 ### Résumé des réalisations effectuées
 
+- Présentation du prototype.
+- Ajusté les projecteurs.
+- Comité de diffusion.
+- Modéliser un obstacle.
+- Continuer mes animations.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![ici est une description de l'image.](medias/tapis.PNG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
  
+J'aurais voulu continuer plus l'animation mais cette semaine on est aller plus au grand studio. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
+Être mmieux oragnisé. 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
 
+Je dirai qu'on a avancez pas mal malgré les équipements manquants.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
+Si on avait les matériels, on aurait été plus avancé.
 
 ### Défis pour la prochaine semaine
+
+Terminer notre setup sur place pour se concentrer sur le jeux en tel. 
 
 ---
 ## Semaine de rattrapage (27 février au 5 mars)
