@@ -245,40 +245,49 @@ Nous avons fait un échéancier plus stricte pour la production des animations.
 ---
 ## Semaine de rattrapage (27 février au 5 mars)
 ### Résumé des réalisations effectuées
-
+- Se terir à jour de l'avancement des membres de l'équipe.
+- Commencer les menus de début et de fin.
+- Ajouter l'obstacle Facebook.
+- Ajouter des A+.
+- Modifier le code pour que les nouveaux obstacles déclenchent des évènements dans max.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![Code pour ajouter les obstacles](medias/code_unity.PNG)
+Pourquoi ? Parce que maintenant, les obstacles sont tous présents.
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'avais de la difficulté à me concentrer sur les menus, alors je me suis tournée vers les obstacles ainsi que la relation de ceux-ci avec le personnage. Nous n'avons pas branché les projecteurs à l'ordinateur, car nous n'avions pas encore le matériel nécessaire.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je n'ai pas fait ce que j'avais prévu, mais dans un sens j'ai quand même beaucoup avancé. Donc juste de respecter ce que je dis que je vais faire au lieu de commencer une autre tâche.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Un fois que l'équipement va avoir été installé, j'ai l'impression qu'on va avoir avancé d'un énorme pas, car nous allons pouvoir faire les tests en réel, directement sur les trois murs.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Redoubler d'ardeur.
 
 ### Défis pour la prochaine semaine
-
+- Enregistrer les voix.
+- Créer le système booléen.
+- Assigner le bool aux obstacles et créer les conditions pour telle et telle fin.
+- Faire la vidéo de Netflix.
+- Faire la vidéo de Facebook.
+- Faire la vidéo de COVID.
 ---
 ## Semaine 5 (6 au 12 mars)
 ### Résumé des réalisations effectuées
