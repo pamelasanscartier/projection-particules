@@ -247,38 +247,48 @@ Terminer notre setup sur place pour se concentrer sur le jeux en tel.
 ## Semaine de rattrapage (27 février au 5 mars)
 ### Résumé des réalisations effectuées
 
+- Faire la vignette et la bannière pour le site.
+- Continuer mes animations. Faire l'animation de début.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![ici est une description de l'image.](medias/schoolrun_vignette4.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
  
+ J'ai avancé dans mes animations et j'ai fini les vignettes et la bannière pour le site,
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
+Finir le plus vite mes animations possible.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
 
+Cette semaine on a toujours pas les équipements pour finir nôtre installation intéractive sur place.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
+--
 
 ### Défis pour la prochaine semaine
+
+- Finir l'installation si on peut.
+- Finir l'animation de début.
+- Continuer mes animations.
 
 ---
 ## Semaine 5 (6 au 12 mars)
