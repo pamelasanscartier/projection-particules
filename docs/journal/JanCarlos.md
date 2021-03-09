@@ -230,21 +230,25 @@ Avoir un prototype fonctionnel du project à montrer.
 ---
 ## Semaine de rattrapage (27 février au 5 mars)
 ### Résumé des réalisations effectuées
-
+- emplacement des haut-parleurs.
+- madmapper.
+- teste tu tapis sans les acumulation des donnée envoyé.
+- rencontre avec le comité technique .
+- modification du code du jeu pour l'ameliorer et le rendre moins repetitif.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![Journée de montage](medias/jmcinq.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Mes objectifs ont été atteinds pour cette semaine.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -252,7 +256,7 @@ Avoir un prototype fonctionnel du project à montrer.
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -263,7 +267,7 @@ Avoir un prototype fonctionnel du project à montrer.
 
 
 ### Défis pour la prochaine semaine
-
+pour la semaine prochaine serais d'avoir fini toutes les intallations des projecteurs et des haut parleurs.
 ---
 ## Semaine 5 (6 au 12 mars)
 ### Résumé des réalisations effectuées
