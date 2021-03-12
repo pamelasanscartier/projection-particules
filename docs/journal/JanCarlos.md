@@ -271,21 +271,27 @@ pour la semaine prochaine serais d'avoir fini toutes les intallations des projec
 ---
 ## Semaine 5 (6 au 12 mars)
 ### Résumé des réalisations effectuées
+- Installation des haut-parleurs
+- Rencontre avec l'équipe pour voir vou ont été rendu
+- Arrengement du song 
+- Rencontre avec le comité technique
+- Arrangement des cables et équipement pour rendre notre espace propre pour la prochaine étape.
+
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![Journée de montage](medias/jmf.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ parceque ont a reussi à tout installer et que tout sois prêt pour la semaine prochaine.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -293,7 +299,7 @@ pour la semaine prochaine serais d'avoir fini toutes les intallations des projec
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -304,7 +310,7 @@ pour la semaine prochaine serais d'avoir fini toutes les intallations des projec
 
 
 ### Défis pour la prochaine semaine
-
+Avoir tout fini le jeu et les animations.
 ---
 ## Semaine 6 (13 au 19 mars)
 ### Résumé des réalisations effectuées
