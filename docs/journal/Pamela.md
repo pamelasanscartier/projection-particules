@@ -291,40 +291,48 @@ Redoubler d'ardeur.
 ---
 ## Semaine 5 (6 au 12 mars)
 ### Résumé des réalisations effectuées
-
+- Enregistrer les voix.
+- Faire la vidéo de Netflix.
+- Faire la vidéo de Facebook.
+- Continuer l'installation de l'équipement.
+- Intégrer les bons sons et bonnes vidéos dans max.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![Vidéo de Netflix](medias/video_netflix.PNG)
 
+Pourquoi ? Parce que j'ai découvert qu'After Effects ne m'aime pas, mais j'ai gagné contre lui !
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Peu
+- [x] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Jan et moi avons convenu qu'il allait terminer tout ce qu'il avait à faire avec Unity pour ensuite m'envoyer le fichier. Comme ça, nous n'avons pas à gérer deux personnes qui codent en même temps. J'ai donc travaillé sur les vidéos et j'ai aidé pour bien calibrer les projections.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Pas tant applicable. Une fois que je vais avoir le fichier, je vais faire ma part.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Il y a deux parties qui sont plus en retard : les animations et les menus. Il reste encore trois animations à faire. Pour les menus, je sais comment les faire et ça ne devrait pas me prendre trop de temps.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je vais continuer d'optimiser mon temps en avançant tout ce que je peux en attendant d'avoir le code final d'Unity de Jan.
 
 ### Défis pour la prochaine semaine
-
+- Menu début.
+- Menu fins.
+- Faire apparaître les menus selon le score.
 ---
 ## Semaine 6 (13 au 19 mars)
 ### Résumé des réalisations effectuées
