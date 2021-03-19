@@ -336,36 +336,46 @@ Je vais continuer d'optimiser mon temps en avançant tout ce que je peux en atte
 ---
 ## Semaine 6 (13 au 19 mars)
 ### Résumé des réalisations effectuées
-
+- Menu début.
+- Menu des fins.
+- Logique pour appeler les menus.
+- Coder les boutons pour app.
+- Créer une version alternative pour le jeu en ligne.
+- Réenregistrer les voix, car la qualité était mauvaise.
+- Ajustement de derniers détails.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![Patcher son](medias/patcher_video.PNG)
 
-
-
+Pourquoi ? Parce qu'après un nombre incomptable d'heures, j'ai réussi à faire communiquer Unity et Max pour TOUS les aspects.
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Parce que je voulais ne rien laisser de côté pour la remise.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Non applicable.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Il s'est réalisé dans les délais prévus ! Pas de surplus de temps, ni de manque.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Si je refais un projet dans ce genre, me prendre plus d'avance pour avoir plus de temps pour régler les problèmes de dernière minute.
 
 ### Défis pour la prochaine semaine
+- Documentation pour le GitHub
+- Mettre à jour quelques détails pour la préprod
+- Démonter l'installation
+- Prendre le temps de respirer un peu.
