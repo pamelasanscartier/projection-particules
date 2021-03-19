@@ -314,28 +314,31 @@ Avoir tout fini le jeu et les animations.
 ---
 ## Semaine 6 (13 au 19 mars)
 ### Résumé des réalisations effectuées
-
+- Fin de l'installation scénographique.
+- Test du son
+- Finir code du jeu
+- la generale 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![Journée de montage](medias/profin.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ parceque tout fonctionné
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Faire en sorte que le son fonctionne correctement.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -347,3 +350,4 @@ Avoir tout fini le jeu et les animations.
 
 
 ### Défis pour la prochaine semaine
+Faire en sorte que le son fonctionne correctement.
