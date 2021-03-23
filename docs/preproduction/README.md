@@ -79,7 +79,6 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 * 2 Murs démontables
 * Tapis Dance Dance
-* Govee Bande lumineuse
 * Tapis fitness
 * Feuilles de vinyl autocollantes
 
@@ -87,10 +86,11 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 ## Équipements requis
 
 * Audio
-    * 4 haut-parleurs Genelec"
+    * 4 Haut parleur Neumann  KH80 DSP
     * 4 fils XLR 3 conducteurs de 15' (M->F)
     * Interface audio USB disposant 4 sorties
-    * 2 Carte de son 4int 4out
+    * 1 Carte de son 4int 
+    * 1 SoundDevic
     * 3 Système de fixation extensible 1.5' à 3'
     * 7 Câble de sureté / Safety
     
@@ -99,8 +99,6 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * 3 Projecteur standard, ratio 1.5, 3500 lumens
     * 3 Système d'acrochage
    
- * Lumières  
-    * Govee Bande lumineuse
 
 
 * Électricité
