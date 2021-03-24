@@ -90,9 +90,9 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * 4 fils XLR 3 conducteurs de 15' (M->F)
     * Interface audio USB disposant 4 sorties
     * 1 Carte de son 4int 
-    * 1 SoundDevic
+    * 1 SoundDevice
     * 3 Système de fixation extensible 1.5' à 3'
-    * 7 Câble de sureté / Safety
+    * 7 Câbles de sureté / Safety
     
 
 * Vidéo
@@ -129,7 +129,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 * 10 février, TTP, location de matériel 
 * 10 février, TTP, installation du matériel dans l'espace
-* 13 février, Mélanie Simard, enregistrement des voix
+* 13 mars, Mélanie Simard, enregistrement des voix
 * 26 mars, TTP, retour du matériel
 
 ## Ressources spatiales requises (rangement et locaux)
@@ -155,7 +155,7 @@ https://github.com/pamelasanscartier/school_run/milestones
 *Dates importantes de diffusion :*
 - Pratique générale : jeudi 18 mars (à partir de 17h) et vendredi 19 mars (toute la journée)
 - Début de la diffusion : lundi 22 mars
-- Présentation des projets devant public : jeudi 25 mars (soir)
+- Présentation des projets devant public : jeudi 25 mars, de 19h à 21h
 
 ## Liste des tâches à réaliser
 Visualisation des tâches à réaliser dans GitHub selon la méthode Kanban:  
@@ -168,9 +168,13 @@ https://github.com/pamelasanscartier/school_run/issues
 
 ### **Pamela**
 - **Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe)**;
-- Installation de l'équipement dans l'espace physique.
 - **Coordination artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe)**;
 - Montage vidéo des effets visuels;
+- Programmation des patchers Max pour le son et la vidéo;
+- Création de la logique de communication entre Unity, Max et MadMapper;
+- Trouver les sons;
+- Programmation de la logique pour appeler les différentes fins;
+- Création des menus pour les différentes fins;
 - Programmation des personnalisations dans Unity;
 - Enregistrement des voix.
 
@@ -182,10 +186,13 @@ https://github.com/pamelasanscartier/school_run/issues?q=is%3Aopen+assignee%3Apa
 ### **Jan Carlos**
 - **Comité Technique et coordination technique (suivi du devis technique)**;
 - Création du plan de l'installation physique;
-- Création des paysages sonores;
-- Programmation du module Max d'effet et de contrôle audio dans la classe;
-- Programmation du module Max de contrôle vidéo dans la classe;
 - Programmation des fonctions de base dans Unity.
+- Installation de l'équipement;
+- Branchements de l'équipement;
+- Trouver les sons;
+- Contrôle du personnage à partir du tapis (ajustements avec le code de Guillaume);
+- Programmation de la vitesse du personnage dans Unity;
+- Création du décor du jeu.
 
 Liste des tâches dans Git Hub:  
 https://github.com/pamelasanscartier/school_run/projects/1?card_filter_query=assignee%3Ajanki000 
@@ -194,11 +201,9 @@ https://github.com/pamelasanscartier/school_run/issues?q=is%3Aopen+assignee%3Aja
 
 ### **David**
 - **Comité Diffusion et coordination de la diffusion (mise en ligne du Site Web, organisation de la plateforme et de l'événement de diffusion)**;
-- Installation et mise en place de la capture audiovidéo du projet en temps réel;
-- Programmation du module de captation des données;
-- Programmation du module de diffusion et d'interaction en ligne (page Web, diffusion vidéo dans Twitch via OBS, interface utilisateur dans Open Stage Control);
 - Montage vidéo des effets visuels;
-- Création des vidéos d'animations 2D;
+- Design de la vignette pour le site Web;
+- Création des vidéos d'animations 2D.
 
 Liste des tâches dans Git Hub:  
 https://github.com/pamelasanscartier/school_run/projects/1?card_filter_query=assignee%3Acapkidd1
