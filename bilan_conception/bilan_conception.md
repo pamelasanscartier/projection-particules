@@ -6,7 +6,7 @@ Au départ, le projet n’avait aucun lien avec celui d’en ce moment. C’éta
 *School run est petit jeu sur le thème des études. Il montre comment, en ce moment de pandémie, les études peuvent être très stressantes et démotivantes, en plus d’avoir un nombre de distractions manifestement plus élevé. Le jeu va comme suit : un personnage court vers l’avant dans un couloir scolaire. Plusieurs obstacles (distractions) sont dans son chemin et il doit les éviter. Dans son parcours, il y aura des A+ à attraper et des F à éviter. Après avoir touché trois de l’un d’eux, c’est la fin de la partie. Le message de fin changera selon s’il a eu trois A+ ou trois F. Si le joueur touche un obstacle (distraction), il perdra un A+. De plus, les évènements qui se produisent dans le jeu vont en partie être recréés dans un espace physique, afin de rendre l’expérience le plus immersive possible.*
 
 Voici un petit croquis *TRÈS* bien dessiné de ce qui se passe.
-![School_run-Scenario](https://github.com/pamelasanscartier/school_run/blob/master/scenario.jpg)
+![School_run-Scenario](scenario.jpg)
 
 Le tout peut se passer de deux façons. La première est exlusivement en ligne. En effet, le jeu sera mis sur un site Web dédié aux projets finaux de la cohorte 2018 de TIM. Si l’utilisateur le souhaite, il peut cliquer sur la page de notre projet et le tour est joué, il ne reste qu’à apprécier le jeu avec un clavier et une souris (nous voulons que les touches soient le plus instinctives possible. Donc pour sauter, ça sera la barre espace). Toutefois, il y a une deuxième façon, qui est bien meilleure. S’il le souhaite, l’utilisateur peut, pendant la semaine du 22 mars, venir au collège et en plus de jouer à *School Run*, il va le vivre. Oui, oui ! Des projecteurs, des haut-parleurs et des lumières iront chercher des éléments du jeu pour les amener dans la vie réelle. Tout ceci se passera dans une classe vide si possible, sinon nous adapterons le tout dans le grand studio. Si c’est dans une classe, les sons et les projections devront couvrir l’ensemble de la pièce pour que ça soit vraiment immersif. Par exemple, si le joueur touche un A+, la lumière dans la pièce deviendra verte pendant 2 secondes et rouge s’il touche un F. S’il entre en contact avec un logo de Netflix, les affiches de films et séries exploseront partout sur les murs de la classe. Les bruits associés se feront entendre dans les haut-parleurs.
 
@@ -43,7 +43,7 @@ Merci à David, qui a fait ce petit organigramme pour nous aider à nous retrouv
 Un autre petit résumé, juste pour être certain que l’on comprend bien :
 *Le jeu a un système de points, en arrivant à 3 points, la partie est gagnée. Pour cela, on a besoin de ramasser des A+. Par contre, si le joueur touche un obstacle, il perdra un point. Par exemple, quand on touche « Netflix », on perd un A+. De plus, il aura un autre système de points, cette fois-ci quand on accumulera 3 F, la partie sera perdue !*   
 
-![School_run-organigrame](https://github.com/pamelasanscartier/school_run/blob/master/organigramme_prog.png)
+![School_run-organigrame](organigramme_prog.png)
 Le langage de programmation que utiliserons majoritairement est notre ami C#. Nous laisserons le plus de commentaires possible afin de bien se comprendre mutuellement vu nos manières de coder distinctives.
 
 Les fichiers nécessaires seront sur GitHub, afin de tout avoir au même endroit. Pamela va venir faire son tour une fois de temps en temps pour s’assurer que ce n’est pas un fouillis total et qu’on se retrouve facilement.
