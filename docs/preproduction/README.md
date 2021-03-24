@@ -48,11 +48,10 @@ Inspiration principale : [Temple Run](https://www.youtube.com/watch?v=dw0eTbI5av
 - 4 vidéos d'animation 2D 
 - 7 montages vidéo 
 - 4 paysages sonores
-- 14 enregistrements vocaux (Pour les messages F et A)
+- 3 enregistrements vocaux (Pour les messages F et A)
 - 1 module de programmation pour le son (voix)
 - 1 module de programmation pour le paysage sonore
 - 1 module de programmation pour les projections
-- 1 module de programmation pour les éclairages 
 
 Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/1444975_cmontmorency_qc_ca1/EdDtdKwSj6VDgrOSbEyrfvEBIP7cvuMJ_1IAHWA5S1dBng?e=uSSPsl)
 
