@@ -16,6 +16,7 @@ Dans ce dossier, on retrouve:
 5. Dans le menu **Options**, cliquer sur **File Preferences**
     * Faire le lien avec le dossier **sons**.
     * Faire le lien avec le dossier **medias**.
+5. Suivre les instructions de la vidéo **tuto_son.mp4**.
 6. Ouvrir Madmapper et ajuster les *quads*. 
 7. Dans le menu de droite, il y a la liste des Spouts. Glisser **testschoolrun** sur les *quads* de droite et de gauche. Pour celui du milieu, glisser **sendSchool**.
 8. Mettre en **Full Screen**.
