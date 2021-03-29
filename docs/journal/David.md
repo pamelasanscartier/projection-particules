@@ -294,72 +294,96 @@ Cette semaine on a toujours pas les équipements pour finir nôtre installation 
 ## Semaine 5 (6 au 12 mars)
 ### Résumé des réalisations effectuées
 
+- Créer les bonhommes dans illustrator pour les différentes vidéos de fins.
+- Fini animations de fin A+
+- Fini animations de fin F
+- Faire le madmapper des trois murs qu'on a pour le mettre tout Beaux.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![ici est une description de l'image.](medias/illustrator.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
  
+- Car j'ai fini mes animations.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
+- Il en a pas. 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
 
+- Il a eu pas mal de complication pour le son mais on a pu le régler à l'aide de Darryl.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
+- Il en a pas.
 
 ### Défis pour la prochaine semaine
+
+- Finir les dernières animations.
+- Finir notre installations.
 
 ---
 ## Semaine 6 (13 au 19 mars)
 ### Résumé des réalisations effectuées
 
+- Fini animation de fin distraction.
+- Entrain de finir l'animation de facebook.
+- Faire les derniers ajustements sur madmapper pour la présentation.
+- Faire ajustement de notre site.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![ici est une description de l'image.](medias/aftereffect.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Peu
+- [X] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+
+- J'ai pu avancés mes animations mais pas encore fini, je veux le terminé avant la prochaine semaine. Pamela m'a aider a faire les modifications du site. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
+- Comprendre plus github. 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
 
+- Je sens que cette semaine était la plus difficile puisque la fin était proche et pleins de petits bugs surgissaient de nul part. Cependant tout a été résolu ou presque.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
+- Lesson: Préparer mieux au début.
 
 ### Défis pour la prochaine semaine
+
+- Régler certains bug.
+- Ajustement de mon animation de Facebook.
+- Exporté le tout pour que Pamela peut avencer et le mettre sur max.
+- Préparer ce que j'ai à dire pour le 25 mars. 
