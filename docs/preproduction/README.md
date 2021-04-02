@@ -66,11 +66,11 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ### Schéma de branchement 
 
-![exemple de schema](medias/branchement.JPG)
+![exemple de schema](medias/schema_branchement_final.jpg)
 
 ### Plantation 
 
-![exemple de plantation](medias/plangtation4.JPG)
+![exemple de plantation](medias/schema_plantation_final.jpg)
 
 ## Matériel de scénographie requis
 
