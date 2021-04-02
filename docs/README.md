@@ -2,9 +2,10 @@
 
 Dans ce dossier, on retrouve:
 
-* La préproduction du projet à réaliser en début de projet;
-* Les journaux de création individuels de chaque membre de l'équipe à remplir chaque semaine;
-* Votre page Web d'équipe à mettre à jour chaque semaine (**index.html**).
+* La préproduction;
+* Les journaux de création individuels de chaque membre de l'équipe;
+* Les ressources utilisées pour le projet. C'est dans ce dossier que se retrouve les fichiers nécessaires pour refaire le projet.
+* Le contenu pour la page Web (https://tim-montmorency.com/2021/projets/school_run/docs/index.html)
 
 
 ## Pour ouvrir le projet (expérience interactive)
